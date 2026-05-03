@@ -1,0 +1,15 @@
+---
+title: "Chess Engines & The Modern Game"
+---
+
+## Did engines flatten the elite?
+
+This project tests one hypothesis: widespread access to computer-assisted preparation has **narrowed the gap** between the world's best player and the rest of the top 20.
+
+We look at three angles:
+
+1. **Rating convergence** — FIDE Top 100 lists from 1967 to today
+2. **Move accuracy** — Stockfish evaluations of ~600 World Championship games
+3. **Elo prediction** — can a model trained on modern games explain more variance than one trained on pre-engine games?
+
+Use the navbar to explore each section.

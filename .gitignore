@@ -1,0 +1,24 @@
+# Raw data (large / scraped files)
+data/raw/
+
+# Quarto build output
+_site/
+.quarto/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db

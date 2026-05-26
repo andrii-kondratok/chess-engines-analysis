@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Як шахові рушії вплинули на світ шахів"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Дослідження
+      - href: game.qmd
+        text: 🎮 Guess the Elo vs AI
+      - href: skills.qmd
+        text: Технічний стек
+      - href: about.qmd
+        text: Джерела
+
+format:
+  html:
+    theme:
+      light: [cosmo, light.scss]
+      dark:  [darkly, dark.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+
+editor: visual

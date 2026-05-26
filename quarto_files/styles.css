@@ -1,0 +1,26 @@
+/* css styles */
+
+/* ── Theme toggle discoverability ─────────────────────────────────────────── */
+
+/* Small persistent label to the left of the toggle */
+.quarto-color-scheme-toggle::before {
+  content: "☀️ / 🌙";
+  font-size: 0.72rem;
+  opacity: 0.75;
+  margin-right: 5px;
+  vertical-align: middle;
+  pointer-events: none;
+  letter-spacing: 0.03em;
+}
+
+/* Gold pulse on page load — fires twice after 0.6s, then stops */
+@keyframes toggle-pulse {
+  0%   { box-shadow: 0 0 0 0px rgba(212, 168, 67, 0.6); }
+  60%  { box-shadow: 0 0 0 9px rgba(212, 168, 67, 0);   }
+  100% { box-shadow: 0 0 0 0px rgba(212, 168, 67, 0);   }
+}
+
+.quarto-color-scheme-toggle {
+  border-radius: 50%;
+  animation: toggle-pulse 1.4s ease-out 0.6s 2;
+}

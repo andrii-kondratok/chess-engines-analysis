@@ -1,0 +1,18 @@
+---
+title: "Guess the Elo"
+format:
+  html:
+    toc: false
+---
+
+Guess the Elo це популярна гра в шаховому ком'юніті, здебільшого завдячуючи GothamChess. Мета гри — вгадати середній рейтинг двох гравців, глянувши на їхню гру. Тут ви можете зіграти в цю гру із 200 іграми з лічесу, і позмагатися проти моєї модельки, яка натренована вгадувати середній рейтинг на точності гравців, різних часових фічах та паттернових.
+
+```{=html}
+<iframe
+  src="https://akondratok-guess-the-elo-against-ai.hf.space?embed=true"
+  width="100%"
+  height="680"
+  frameborder="0"
+  style="border-radius:8px; margin-top:8px;">
+</iframe>
+```

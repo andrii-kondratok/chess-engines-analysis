@@ -1,0 +1,1901 @@
+rank,year,month,name,federation,rating
+1,2001,JUL,"Kasparov, Garry",Russia,2838
+2,2001,JUL,"Kramnik, Vladimir",Russia,2802
+3,2001,JUL,"Anand, Viswanathan",India,2794
+4,2001,JUL,"Fischer, Robert J",United States of America,2780
+5,2001,JUL,"Morozevich, Alexander",Russia,2749
+6,2001,JUL,"Adams, Michael",England,2744
+7,2001,JUL,"Ivanchuk, Vassily",Ukraine,2731
+8,2001,JUL,"Leko, Peter",Hungary,2730
+9,2001,JUL,"Bareev, Evgeny",Russia,2719
+10,2001,JUL,"Kamsky, Gata",United States of America,2717
+11,2001,JUL,"Topalov, Veselin",Bulgaria,2711
+12,2001,JUL,"Shirov, Alexei",Spain,2706
+13,2001,JUL,"Gelfand, Boris",Israel,2704
+14,2001,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2704
+15,2001,JUL,"Smirin, Ilia",Israel,2702
+16,2001,JUL,"Khalifman, Alexander",Russia,2700
+17,2001,JUL,"Georgiev, Kiril",Bulgaria,2695
+18,2001,JUL,"Svidler, Peter",Russia,2695
+19,2001,JUL,"Van Wely, Loek",Netherlands,2695
+20,2001,JUL,"Karpov, Anatoly",Russia,2692
+21,2001,JUL,"Dreev, Alexey",Russia,2690
+22,2001,JUL,"Polgar, Judit (GM)",Hungary,2686
+23,2001,JUL,"Ponomariov, Ruslan",Ukraine,2684
+24,2001,JUL,"Ye, Jiangchuan",China,2677
+25,2001,JUL,"Lautier, Joel",France,2675
+26,2001,JUL,"Azmaiparashvili, Zurab",Georgia,2674
+27,2001,JUL,"Grischuk, Alexander",Russia,2669
+28,2001,JUL,"Onischuk, Alexander",Ukraine,2667
+29,2001,JUL,"Zhang, Zhong",China,2667
+30,2001,JUL,"Short, Nigel D.",England,2664
+31,2001,JUL,"Akopian, Vladimir",Armenia,2660
+32,2001,JUL,"Beliavsky, Alexander G",Slovenia,2659
+33,2001,JUL,"Sokolov, Ivan",Bosnia & Herzegovina,2659
+34,2001,JUL,"Kharlov, Andrei",Russia,2656
+35,2001,JUL,"Bologan, Viktor",Moldova,2655
+36,2001,JUL,"Bacrot, Etienne",France,2653
+37,2001,JUL,"Nikolic, Predrag",Bosnia & Herzegovina,2652
+38,2001,JUL,"Sutovsky, Emil",Israel,2651
+39,2001,JUL,"Vaganian, Rafael A",Armenia,2650
+40,2001,JUL,"Aleksandrov, Aleksej",Belarus,2646
+41,2001,JUL,"Xu, Jun",China,2646
+42,2001,JUL,"Salov, Valery",Russia,2644
+43,2001,JUL,"Seirawan, Yasser",United States of America,2644
+44,2001,JUL,"Lutz, Christopher",Germany,2643
+45,2001,JUL,"Tkachiev, Vladislav",France,2642
+46,2001,JUL,"Rublevsky, Sergei",Russia,2639
+47,2001,JUL,"Zvjaginsev, Vadim",Russia,2638
+48,2001,JUL,"Malakhov, Vladimir",Russia,2637
+49,2001,JUL,"Crisan, Alexandru",Romania,2635
+50,2001,JUL,"Gurevich, Mikhail",Belgium,2633
+51,2001,JUL,"Hjartarson, Johann",Iceland,2633
+52,2001,JUL,"Jussupow, Artur",Germany,2633
+53,2001,JUL,"Sadler, Matthew",England,2631
+54,2001,JUL,"Almasi, Zoltan",Hungary,2630
+55,2001,JUL,"Dautov, Rustem",Germany,2630
+56,2001,JUL,"Piket, Jeroen",Netherlands,2630
+57,2001,JUL,"Sakaev, Konstantin",Russia,2630
+58,2001,JUL,"Vallejo Pons, Francisco",Spain,2630
+59,2001,JUL,"Delchev, Aleksander",Bulgaria,2629
+60,2001,JUL,"Peng, Xiaomin",China,2629
+61,2001,JUL,"Lastin, Alexander",Russia,2628
+62,2001,JUL,"Ehlvest, Jaan",Estonia,2627
+63,2001,JUL,"Motylev, Alexander",Russia,2627
+64,2001,JUL,"Movsesian, Sergei",Czech Republic,2627
+65,2001,JUL,"Hansen, Curt",Denmark,2626
+66,2001,JUL,"Shipov, Sergei",Russia,2625
+67,2001,JUL,"Landa, Konstantin",Russia,2619
+68,2001,JUL,"Tiviakov, Sergei",Netherlands,2618
+69,2001,JUL,"Filippov, Valerij",Russia,2617
+70,2001,JUL,"Korchnoi, Viktor",Switzerland,2617
+71,2001,JUL,"Tregubov, Pavel V.",Russia,2617
+72,2001,JUL,"Milos, Gilberto",Brazil,2614
+73,2001,JUL,"Milov, Vadim",Switzerland,2614
+74,2001,JUL,"Pigusov, Evgeny",Russia,2613
+75,2001,JUL,"Huebner, Robert Dr.",Germany,2612
+76,2001,JUL,"Vladimirov, Evgeny",Kazakhstan,2612
+77,2001,JUL,"Graf, Alexander",Germany,2610
+78,2001,JUL,"Hracek, Zbynek",Czech Republic,2610
+79,2001,JUL,"Nisipeanu, Liviu-Dieter",Romania,2609
+80,2001,JUL,"Lputian, Smbat G",Armenia,2608
+81,2001,JUL,"Magomedov, Magaram",Russia,2608
+82,2001,JUL,"Chuchelov, Vladimir",Belgium,2607
+83,2001,JUL,"Rustemov, Alexander",Russia,2607
+84,2001,JUL,"Van Den Doel, Erik",Netherlands,2607
+85,2001,JUL,"Fressinet, Laurent",France,2606
+86,2001,JUL,"Granda Zuniga, Julio E",Peru,2605
+87,2001,JUL,"Hellers, Ferdinand",Sweden,2605
+88,2001,JUL,"Kaidanov, Gregory S",United States of America,2605
+89,2001,JUL,"Asrian, Karen",Armenia,2604
+90,2001,JUL,"Luther, Thomas",Germany,2604
+91,2001,JUL,"Sokolov, Andrei",France,2604
+92,2001,JUL,"Tukmakov, Vladimir B",Ukraine,2604
+93,2001,JUL,"Speelman, Jonathan S.",England,2603
+94,2001,JUL,"Degraeve, Jean-Marc",France,2602
+95,2001,JUL,"Dorfman, Josif D",France,2602
+96,2001,JUL,"Gulko, Boris F",United States of America,2602
+97,2001,JUL,"Gyimesi, Zoltan",Hungary,2602
+98,2001,JUL,"Andersson, Ulf",Sweden,2601
+99,2001,JUL,"Chernin, Alexander",Hungary,2601
+100,2001,JUL,"Hickl, Joerg",Germany,2600
+1,2002,JUL,"Kasparov, Garry",Russia,2838
+2,2002,JUL,"Kramnik, Vladimir",Russia,2807
+3,2002,JUL,"Fischer, Robert J",United States of America,2780
+4,2002,JUL,"Anand, Viswanathan",India,2755
+5,2002,JUL,"Adams, Michael",England,2752
+6,2002,JUL,"Topalov, Veselin",Bulgaria,2745
+7,2002,JUL,"Ponomariov, Ruslan",Ukraine,2743
+8,2002,JUL,"Bareev, Evgeny",Russia,2726
+9,2002,JUL,"Leko, Peter",Hungary,2722
+10,2002,JUL,"Kamsky, Gata",United States of America,2717
+11,2002,JUL,"Morozevich, Alexander",Russia,2716
+12,2002,JUL,"Ivanchuk, Vassily",Ukraine,2711
+13,2002,JUL,"Gelfand, Boris",Israel,2710
+14,2002,JUL,"Grischuk, Alexander",Russia,2702
+15,2002,JUL,"Shirov, Alexei",Spain,2697
+16,2002,JUL,"Khalifman, Alexander",Russia,2690
+17,2002,JUL,"Svidler, Peter",Russia,2690
+18,2002,JUL,"Karpov, Anatoly",Russia,2687
+19,2002,JUL,"Short, Nigel D.",England,2682
+20,2002,JUL,"Polgar, Judit (GM)",Hungary,2681
+21,2002,JUL,"Sokolov, Ivan",Netherlands,2677
+22,2002,JUL,"Azmaiparashvili, Zurab",Georgia,2676
+23,2002,JUL,"Dreev, Alexey",Russia,2676
+24,2002,JUL,"Smirin, Ilia",Israel,2676
+25,2002,JUL,"Ye, Jiangchuan",China,2676
+26,2002,JUL,"Zvjaginsev, Vadim",Russia,2673
+27,2002,JUL,"Almasi, Zoltan",Hungary,2672
+28,2002,JUL,"Malakhov, Vladimir",Russia,2668
+29,2002,JUL,"Lautier, Joel",France,2665
+30,2002,JUL,"Krasenkow, Michal",Poland,2662
+31,2002,JUL,"Nikolic, Predrag",Bosnia & Herzegovina,2661
+32,2002,JUL,"Rublevsky, Sergei",Russia,2658
+33,2002,JUL,"Sutovsky, Emil",Israel,2658
+34,2002,JUL,"Lutz, Christopher",Germany,2655
+35,2002,JUL,"Movsesian, Sergei",Slovakia,2654
+36,2002,JUL,"Xu, Jun",China,2654
+37,2002,JUL,"Bacrot, Etienne",France,2653
+38,2002,JUL,"Beliavsky, Alexander G",Slovenia,2652
+39,2002,JUL,"Vallejo Pons, Francisco",Spain,2652
+40,2002,JUL,"Sasikiran, Krishnan",India,2650
+41,2002,JUL,"Gurevich, Mikhail",Belgium,2649
+42,2002,JUL,"Sakaev, Konstantin",Russia,2647
+43,2002,JUL,"Aleksandrov, Aleksej",Belarus,2646
+44,2002,JUL,"Piket, Jeroen",Netherlands,2646
+45,2002,JUL,"Van Wely, Loek",Netherlands,2645
+46,2002,JUL,"Onischuk, Alexander",United States of America,2644
+47,2002,JUL,"Salov, Valery",Russia,2644
+48,2002,JUL,"Epishin, Vladimir",Russia,2643
+49,2002,JUL,"Kaidanov, Gregory S",United States of America,2638
+50,2002,JUL,"Zhang, Zhong",China,2637
+51,2002,JUL,"Volkov, Sergey",Russia,2636
+52,2002,JUL,"Hjartarson, Johann",Iceland,2634
+53,2002,JUL,"Huebner, Robert Dr.",Germany,2634
+54,2002,JUL,"Motylev, Alexander",Russia,2634
+55,2002,JUL,"Bologan, Viktor",Moldova,2631
+56,2002,JUL,"Tiviakov, Sergei",Netherlands,2628
+57,2002,JUL,"Korchnoi, Viktor",Switzerland,2626
+58,2002,JUL,"Nielsen, Peter Heine",Denmark,2626
+59,2002,JUL,"Hansen, Curt",Denmark,2625
+60,2002,JUL,"Kobalia, Mikhail",Russia,2625
+61,2002,JUL,"Lastin, Alexander",Russia,2625
+62,2002,JUL,"Tkachiev, Vladislav",France,2625
+63,2002,JUL,"Graf, Alexander",Germany,2624
+64,2002,JUL,"Sadler, Matthew",England,2624
+65,2002,JUL,"Shabalov, Alexander",United States of America,2624
+66,2002,JUL,"Timman, Jan H",Netherlands,2623
+67,2002,JUL,"Istratescu, Andrei",Romania,2622
+68,2002,JUL,"Pigusov, Evgeny",Russia,2622
+69,2002,JUL,"Landa, Konstantin",Russia,2621
+70,2002,JUL,"Fressinet, Laurent",France,2619
+71,2002,JUL,"Jussupow, Artur",Germany,2618
+72,2002,JUL,"Radjabov, Teimour",Azerbaijan,2618
+73,2002,JUL,"Seirawan, Yasser",United States of America,2618
+74,2002,JUL,"Dautov, Rustem",Germany,2617
+75,2002,JUL,"Dorfman, Josif D",France,2617
+76,2002,JUL,"Filippov, Valerij",Russia,2615
+77,2002,JUL,"Baklan, Vladimir",Ukraine,2614
+78,2002,JUL,"Dominguez, Lenier",Cuba,2613
+79,2002,JUL,"Nisipeanu, Liviu-Dieter",Romania,2613
+80,2002,JUL,"Shipov, Sergei",Russia,2613
+81,2002,JUL,"Nunn, John D.M.",England,2611
+82,2002,JUL,"Vescovi, Giovanni",Brazil,2611
+83,2002,JUL,"Goldin, Alexander",United States of America,2609
+84,2002,JUL,"Kharlov, Andrei",Russia,2609
+85,2002,JUL,"Benjamin, Joel",United States of America,2608
+86,2002,JUL,"Hodgson, Julian M.",England,2608
+87,2002,JUL,"Macieja, Bartlomiej",Poland,2607
+88,2002,JUL,"Granda Zuniga, Julio E",Peru,2605
+89,2002,JUL,"Hellers, Ferdinand",Sweden,2605
+90,2002,JUL,"Eingorn, Vereslav S",Ukraine,2604
+91,2002,JUL,"Kazhgaleyev, Murtas",Kazakhstan,2604
+92,2002,JUL,"Sermek, Drazen",Slovenia,2603
+93,2002,JUL,"Bu, Xiangzhi",China,2602
+94,2002,JUL,"Ftacnik, Lubomir",Slovakia,2602
+95,2002,JUL,"Hickl, Joerg",Germany,2602
+96,2002,JUL,"Milov, Vadim",Switzerland,2602
+97,2002,JUL,"Peng, Xiaomin",China,2602
+98,2002,JUL,"Van Den Doel, Erik",Netherlands,2602
+99,2002,JUL,"Novikov, Igor A",United States of America,2601
+100,2002,JUL,"Ehlvest, Jaan",Estonia,2600
+1,2003,JUL,"Kasparov, Garry",Russia,2830
+2,2003,JUL,"Kramnik, Vladimir",Russia,2785
+3,2003,JUL,"Fischer, Robert J",United States of America,2780
+4,2003,JUL,"Anand, Viswanathan",India,2774
+5,2003,JUL,"Leko, Peter",Hungary,2739
+6,2003,JUL,"Topalov, Veselin",Bulgaria,2735
+7,2003,JUL,"Grischuk, Alexander",Russia,2732
+8,2003,JUL,"Shirov, Alexei",Spain,2732
+9,2003,JUL,"Svidler, Peter",Russia,2723
+10,2003,JUL,"Bareev, Evgeny",Russia,2721
+11,2003,JUL,"Adams, Michael",England,2719
+12,2003,JUL,"Polgar, Judit (GM)",Hungary,2718
+13,2003,JUL,"Ponomariov, Ruslan",Ukraine,2718
+14,2003,JUL,"Kamsky, Gata",United States of America,2717
+15,2003,JUL,"Ivanchuk, Vassily",Ukraine,2710
+16,2003,JUL,"Akopian, Vladimir",Armenia,2703
+17,2003,JUL,"Azmaiparashvili, Zurab",Georgia,2702
+18,2003,JUL,"Short, Nigel D.",England,2701
+19,2003,JUL,"Dreev, Alexey",Russia,2698
+20,2003,JUL,"Malakhov, Vladimir",Russia,2696
+21,2003,JUL,"Gelfand, Boris",Israel,2695
+22,2003,JUL,"Karpov, Anatoly",Russia,2693
+23,2003,JUL,"Sokolov, Ivan",Netherlands,2693
+24,2003,JUL,"Ye, Jiangchuan",China,2683
+25,2003,JUL,"Morozevich, Alexander",Russia,2679
+26,2003,JUL,"Khalifman, Alexander",Russia,2678
+27,2003,JUL,"Lautier, Joel",France,2677
+28,2003,JUL,"Rublevsky, Sergei",Russia,2672
+29,2003,JUL,"Beliavsky, Alexander G",Slovenia,2668
+30,2003,JUL,"Nisipeanu, Liviu-Dieter",Romania,2666
+31,2003,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2664
+32,2003,JUL,"Vallejo Pons, Francisco",Spain,2662
+33,2003,JUL,"Van Wely, Loek",Netherlands,2661
+34,2003,JUL,"Aleksandrov, Aleksej",Belarus,2659
+35,2003,JUL,"Zhang, Zhong",China,2658
+36,2003,JUL,"Onischuk, Alexander",United States of America,2657
+37,2003,JUL,"Kobalia, Mikhail",Russia,2656
+38,2003,JUL,"Smirin, Ilia",Israel,2656
+39,2003,JUL,"Almasi, Zoltan",Hungary,2655
+40,2003,JUL,"Sakaev, Konstantin",Russia,2655
+41,2003,JUL,"Sasikiran, Krishnan",India,2654
+42,2003,JUL,"Tkachiev, Vladislav",France,2654
+43,2003,JUL,"Zvjaginsev, Vadim",Russia,2653
+44,2003,JUL,"Bologan, Viktor",Moldova,2650
+45,2003,JUL,"Aronian, Levon",Armenia,2649
+46,2003,JUL,"Nikolic, Predrag",Bosnia & Herzegovina,2649
+47,2003,JUL,"Radjabov, Teimour",Azerbaijan,2648
+48,2003,JUL,"Movsesian, Sergei",Slovakia,2647
+49,2003,JUL,"Bacrot, Etienne",France,2645
+50,2003,JUL,"Gurevich, Mikhail",Belgium,2644
+51,2003,JUL,"Salov, Valery",Russia,2644
+52,2003,JUL,"Graf, Alexander",Germany,2643
+53,2003,JUL,"Epishin, Vladimir",Russia,2642
+54,2003,JUL,"Granda Zuniga, Julio E",Peru,2641
+55,2003,JUL,"Fressinet, Laurent",France,2640
+56,2003,JUL,"Hjartarson, Johann",Iceland,2640
+57,2003,JUL,"Sutovsky, Emil",Israel,2639
+58,2003,JUL,"Kaidanov, Gregory S",United States of America,2638
+59,2003,JUL,"Khenkin, Igor",Germany,2638
+60,2003,JUL,"Georgiev, Kiril",FYR Macedonia,2637
+61,2003,JUL,"Nielsen, Peter Heine",Denmark,2636
+62,2003,JUL,"Tregubov, Pavel V.",Russia,2635
+63,2003,JUL,"Lastin, Alexander",Russia,2634
+64,2003,JUL,"Motylev, Alexander",Russia,2634
+65,2003,JUL,"Piket, Jeroen",Netherlands,2632
+66,2003,JUL,"Lutz, Christopher",Germany,2631
+67,2003,JUL,"Filippov, Valerij",Russia,2630
+68,2003,JUL,"Smirnov, Pavel",Russia,2629
+69,2003,JUL,"Korchnoi, Viktor",Switzerland,2628
+70,2003,JUL,"Macieja, Bartlomiej",Poland,2627
+71,2003,JUL,"Sadler, Matthew",England,2626
+72,2003,JUL,"Seirawan, Yasser",United States of America,2626
+73,2003,JUL,"Xu, Jun",China,2626
+74,2003,JUL,"Lputian, Smbat G",Armenia,2623
+75,2003,JUL,"Vaganian, Rafael A",Armenia,2623
+76,2003,JUL,"Volkov, Sergey",Russia,2620
+77,2003,JUL,"McShane, Luke J.",England,2619
+78,2003,JUL,"Hansen, Curt",Denmark,2618
+79,2003,JUL,"Moiseenko, Alexander",Ukraine,2618
+80,2003,JUL,"Vescovi, Giovanni",Brazil,2618
+81,2003,JUL,"Nunn, John D.M.",England,2617
+82,2003,JUL,"Rozentalis, Eduardas",Lithuania,2616
+83,2003,JUL,"Van Den Doel, Erik",Netherlands,2615
+84,2003,JUL,"Bruzon, Lazaro",Cuba,2614
+85,2003,JUL,"Landa, Konstantin",Russia,2614
+86,2003,JUL,"Alekseev, Evgeny",Russia,2613
+87,2003,JUL,"Tiviakov, Sergei",Netherlands,2613
+88,2003,JUL,"Giorgadze, Giorgi",Georgia,2612
+89,2003,JUL,"Eingorn, Vereslav S",Ukraine,2611
+90,2003,JUL,"Dautov, Rustem",Germany,2610
+91,2003,JUL,"Dominguez, Lenier",Cuba,2610
+92,2003,JUL,"Kazhgaleyev, Murtas",Kazakhstan,2610
+93,2003,JUL,"Markowski, Tomasz",Poland,2610
+94,2003,JUL,"Hodgson, Julian M.",England,2609
+95,2003,JUL,"Miladinovic, Igor",Greece,2609
+96,2003,JUL,"Chuchelov, Vladimir",Belgium,2608
+97,2003,JUL,"Goldin, Alexander",United States of America,2608
+98,2003,JUL,"Najer, Evgeniy",Russia,2608
+99,2003,JUL,"Navara, David",Czech Republic,2608
+100,2003,JUL,"Dorfman, Josif D",France,2607
+1,2004,JUL,"Kasparov, Garry",Russia,2817
+2,2004,JUL,"Anand, Viswanathan",India,2782
+3,2004,JUL,"Fischer, Robert J",United States of America,2780
+4,2004,JUL,"Kramnik, Vladimir",Russia,2770
+5,2004,JUL,"Morozevich, Alexander",Russia,2743
+6,2004,JUL,"Leko, Peter",Hungary,2741
+7,2004,JUL,"Adams, Michael",England,2738
+8,2004,JUL,"Topalov, Veselin",Bulgaria,2737
+9,2004,JUL,"Polgar, Judit",Hungary,2728
+10,2004,JUL,"Svidler, Peter",Russia,2727
+11,2004,JUL,"Shirov, Alexei",Spain,2725
+12,2004,JUL,"Ponomariov, Ruslan",Ukraine,2722
+13,2004,JUL,"Kamsky, Gata",United States of America,2717
+14,2004,JUL,"Bareev, Evgeny",Russia,2715
+15,2004,JUL,"Ivanchuk, Vassily",Ukraine,2715
+16,2004,JUL,"Bacrot, Etienne",France,2712
+17,2004,JUL,"Gelfand, Boris",Israel,2709
+18,2004,JUL,"Grischuk, Alexander",Russia,2705
+19,2004,JUL,"Akopian, Vladimir",Armenia,2692
+20,2004,JUL,"Dreev, Alexey",Russia,2690
+21,2004,JUL,"Nisipeanu, Liviu-Dieter",Romania,2686
+22,2004,JUL,"Rublevsky, Sergei",Russia,2686
+23,2004,JUL,"Short, Nigel D.",England,2684
+24,2004,JUL,"Milov, Vadim",Switzerland,2683
+25,2004,JUL,"Karpov, Anatoly",Russia,2682
+26,2004,JUL,"Ye, Jiangchuan",China,2681
+27,2004,JUL,"Van Wely, Loek",Netherlands,2680
+28,2004,JUL,"Azmaiparashvili, Zurab",Georgia,2679
+29,2004,JUL,"Beliavsky, Alexander G",Slovenia,2679
+30,2004,JUL,"Sokolov, Ivan",Netherlands,2679
+31,2004,JUL,"Sutovsky, Emil",Israel,2679
+32,2004,JUL,"Vallejo Pons, Francisco",Spain,2679
+33,2004,JUL,"Malakhov, Vladimir",Russia,2674
+34,2004,JUL,"Aronian, Levon",Armenia,2671
+35,2004,JUL,"Nikolic, Predrag",Bosnia & Herzegovina,2671
+36,2004,JUL,"Smirin, Ilia",Israel,2671
+37,2004,JUL,"Khalifman, Alexander",Russia,2669
+38,2004,JUL,"Gurevich, Mikhail",Belgium,2667
+39,2004,JUL,"Aleksandrov, Aleksej",Belarus,2666
+40,2004,JUL,"Lautier, Joel",France,2666
+41,2004,JUL,"Sasikiran, Krishnan",India,2666
+42,2004,JUL,"Radjabov, Teimour",Azerbaijan,2664
+43,2004,JUL,"Sakaev, Konstantin",Russia,2664
+44,2004,JUL,"Bologan, Viktor",Moldova,2663
+45,2004,JUL,"Mamedyarov, Shakhriyar",Azerbaijan,2662
+46,2004,JUL,"Graf, Alexander",Germany,2661
+47,2004,JUL,"Motylev, Alexander",Russia,2658
+48,2004,JUL,"Onischuk, Alexander",United States of America,2655
+49,2004,JUL,"Nielsen, Peter Heine",Denmark,2652
+50,2004,JUL,"Zvjaginsev, Vadim",Russia,2650
+51,2004,JUL,"Vescovi, Giovanni",Brazil,2648
+52,2004,JUL,"Movsesian, Sergei",Slovakia,2646
+53,2004,JUL,"Almasi, Zoltan",Hungary,2644
+54,2004,JUL,"Salov, Valery",Russia,2644
+55,2004,JUL,"McShane, Luke J.",England,2643
+56,2004,JUL,"Vaganian, Rafael A",Armenia,2642
+57,2004,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2640
+58,2004,JUL,"Moiseenko, Alexander",Ukraine,2640
+59,2004,JUL,"Volokitin, Andrei",Ukraine,2638
+60,2004,JUL,"Fressinet, Laurent",France,2637
+61,2004,JUL,"Epishin, Vladimir",Russia,2635
+62,2004,JUL,"Hansen, Curt",Denmark,2635
+63,2004,JUL,"Lputian, Smbat G",Armenia,2634
+64,2004,JUL,"Iordachescu, Viorel",Moldova,2633
+65,2004,JUL,"Macieja, Bartlomiej",Poland,2633
+66,2004,JUL,"Krasenkow, Michal",Poland,2632
+67,2004,JUL,"Seirawan, Yasser",United States of America,2631
+68,2004,JUL,"Kozul, Zdenko",Croatia,2630
+69,2004,JUL,"Miladinovic, Igor",Greece,2630
+70,2004,JUL,"Dominguez, Lenier",Cuba,2629
+71,2004,JUL,"Bruzon, Lazaro",Cuba,2628
+72,2004,JUL,"Hjartarson, Johann",Iceland,2628
+73,2004,JUL,"Tregubov, Pavel V.",Russia,2628
+74,2004,JUL,"Vladimirov, Evgeny",Kazakhstan,2628
+75,2004,JUL,"Filippov, Valerij",Russia,2627
+76,2004,JUL,"Georgiev, Kiril",FYR Macedonia,2626
+77,2004,JUL,"Sadvakasov, Darmen",Kazakhstan,2626
+78,2004,JUL,"Volkov, Sergey",Russia,2625
+79,2004,JUL,"Dautov, Rustem",Germany,2624
+80,2004,JUL,"Goldin, Alexander",United States of America,2624
+81,2004,JUL,"Huebner, Robert Dr.",Germany,2624
+82,2004,JUL,"Piket, Jeroen",Netherlands,2624
+83,2004,JUL,"Kaidanov, Gregory S",United States of America,2621
+84,2004,JUL,"Bu, Xiangzhi",China,2620
+85,2004,JUL,"Fedorov, Alexei",Belarus,2620
+86,2004,JUL,"Smirnov, Pavel",Russia,2620
+87,2004,JUL,"Rozentalis, Eduardas",Lithuania,2619
+88,2004,JUL,"Gyimesi, Zoltan",Hungary,2618
+89,2004,JUL,"Illescas Cordoba, Miguel",Spain,2618
+90,2004,JUL,"Kobalia, Mikhail",Russia,2618
+91,2004,JUL,"Nunn, John D.M.",England,2617
+92,2004,JUL,"Sadler, Matthew",England,2617
+93,2004,JUL,"Sargissian, Gabriel",Armenia,2617
+94,2004,JUL,"Xu, Jun",China,2617
+95,2004,JUL,"Navara, David",Czech Republic,2616
+96,2004,JUL,"Jobava, Baadur",Georgia,2615
+97,2004,JUL,"Miroshnichenko, Evgenij",Ukraine,2615
+98,2004,JUL,"Tkachiev, Vladislav",France,2615
+99,2004,JUL,"Berkes, Ferenc",Hungary,2614
+100,2004,JUL,"Eljanov, Pavel",Ukraine,2613
+1,2005,JUL,"Kasparov, Garry",Russia,2812
+2,2005,JUL,"Anand, Viswanathan",India,2788
+3,2005,JUL,"Topalov, Veselin",Bulgaria,2788
+4,2005,JUL,"Fischer, Robert J",United States of America,2780
+5,2005,JUL,"Leko, Peter",Hungary,2763
+6,2005,JUL,"Ivanchuk, Vassily",Ukraine,2752
+7,2005,JUL,"Kramnik, Vladimir",Russia,2744
+8,2005,JUL,"Svidler, Peter",Russia,2738
+9,2005,JUL,"Polgar, Judit",Hungary,2735
+10,2005,JUL,"Bacrot, Etienne",France,2729
+11,2005,JUL,"Aronian, Levon",Armenia,2724
+12,2005,JUL,"Gelfand, Boris",Israel,2724
+13,2005,JUL,"Grischuk, Alexander",Russia,2720
+14,2005,JUL,"Adams, Michael",England,2719
+15,2005,JUL,"Morozevich, Alexander",Russia,2707
+16,2005,JUL,"Akopian, Vladimir",Armenia,2705
+17,2005,JUL,"Shirov, Alexei",Spain,2705
+18,2005,JUL,"Ponomariov, Ruslan",Ukraine,2704
+19,2005,JUL,"Bologan, Viktor",Moldova,2700
+20,2005,JUL,"Kamsky, Gata",United States of America,2700
+21,2005,JUL,"Dreev, Alexey",Russia,2698
+22,2005,JUL,"Sokolov, Ivan",Netherlands,2691
+23,2005,JUL,"Bareev, Evgeny",Russia,2688
+24,2005,JUL,"Radjabov, Teimour",Azerbaijan,2682
+25,2005,JUL,"Vallejo Pons, Francisco",Spain,2681
+26,2005,JUL,"Nisipeanu, Liviu-Dieter",Romania,2679
+27,2005,JUL,"Tiviakov, Sergei",Netherlands,2678
+28,2005,JUL,"Motylev, Alexander",Russia,2675
+29,2005,JUL,"Sutovsky, Emil",Israel,2674
+30,2005,JUL,"Malakhov, Vladimir",Russia,2673
+31,2005,JUL,"Short, Nigel D.",England,2673
+32,2005,JUL,"Azmaiparashvili, Zurab",Georgia,2672
+33,2005,JUL,"Karpov, Anatoly",Russia,2672
+34,2005,JUL,"Lautier, Joel",France,2672
+35,2005,JUL,"Volokitin, Andrei",Ukraine,2671
+36,2005,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2670
+37,2005,JUL,"Gurevich, Mikhail",Belgium,2669
+38,2005,JUL,"Sakaev, Konstantin",Russia,2669
+39,2005,JUL,"Nielsen, Peter Heine",Denmark,2668
+40,2005,JUL,"Georgiev, Kiril",Bulgaria,2666
+41,2005,JUL,"Moiseenko, Alexander",Ukraine,2664
+42,2005,JUL,"Krasenkow, Michal",Poland,2663
+43,2005,JUL,"Navara, David",Czech Republic,2663
+44,2005,JUL,"Bruzon, Lazaro",Cuba,2662
+45,2005,JUL,"Timofeev, Artyom",Russia,2661
+46,2005,JUL,"Nakamura, Hikaru",United States of America,2660
+47,2005,JUL,"Zvjaginsev, Vadim",Russia,2659
+48,2005,JUL,"Delchev, Aleksander",Bulgaria,2656
+49,2005,JUL,"Van Wely, Loek",Netherlands,2655
+50,2005,JUL,"Khalifman, Alexander",Russia,2653
+51,2005,JUL,"Avrukh, Boris",Israel,2652
+52,2005,JUL,"Sasikiran, Krishnan",India,2652
+53,2005,JUL,"Smirin, Ilia",Israel,2652
+54,2005,JUL,"Ye, Jiangchuan",China,2648
+55,2005,JUL,"Mamedyarov, Shakhriyar",Azerbaijan,2646
+56,2005,JUL,"Harikrishna, P.",India,2645
+57,2005,JUL,"Karjakin, Sergey",Ukraine,2645
+58,2005,JUL,"Milov, Vadim",Switzerland,2645
+59,2005,JUL,"Movsesian, Sergei",Slovakia,2645
+60,2005,JUL,"Rublevsky, Sergei",Russia,2645
+61,2005,JUL,"Salov, Valery",Russia,2644
+62,2005,JUL,"Efimenko, Zahar",Ukraine,2643
+63,2005,JUL,"Bauer, Christian",France,2641
+64,2005,JUL,"Vescovi, Giovanni",Brazil,2640
+65,2005,JUL,"Dominguez, Lenier",Cuba,2639
+66,2005,JUL,"Eljanov, Pavel",Ukraine,2639
+67,2005,JUL,"Huebner, Robert Dr.",Germany,2636
+68,2005,JUL,"Seirawan, Yasser",United States of America,2635
+69,2005,JUL,"Smirnov, Pavel",Russia,2635
+70,2005,JUL,"Cheparinov, Ivan",Bulgaria,2634
+71,2005,JUL,"Miroshnichenko, Evgenij",Ukraine,2634
+72,2005,JUL,"Aleksandrov, Aleksej",Belarus,2633
+73,2005,JUL,"Bu, Xiangzhi",China,2632
+74,2005,JUL,"Lputian, Smbat G",Armenia,2629
+75,2005,JUL,"Ni, Hua",China,2629
+76,2005,JUL,"Gyimesi, Zoltan",Hungary,2628
+77,2005,JUL,"Onischuk, Alexander",United States of America,2628
+78,2005,JUL,"Fressinet, Laurent",France,2627
+79,2005,JUL,"Jakovenko, Dmitry",Russia,2627
+80,2005,JUL,"Alekseev, Evgeny",Russia,2625
+81,2005,JUL,"Areshchenko, Alexander",Ukraine,2625
+82,2005,JUL,"McShane, Luke J.",England,2625
+83,2005,JUL,"Timman, Jan H",Netherlands,2625
+84,2005,JUL,"Tkachiev, Vladislav",France,2625
+85,2005,JUL,"Illescas Cordoba, Miguel",Spain,2624
+86,2005,JUL,"Istratescu, Andrei",Romania,2624
+87,2005,JUL,"Piket, Jeroen",Netherlands,2624
+88,2005,JUL,"Volkov, Sergey",Russia,2622
+89,2005,JUL,"Filippov, Valerij",Russia,2621
+90,2005,JUL,"Hjartarson, Johann",Iceland,2621
+91,2005,JUL,"Jobava, Baadur",Georgia,2621
+92,2005,JUL,"Almasi, Zoltan",Hungary,2619
+93,2005,JUL,"Berkes, Ferenc",Hungary,2619
+94,2005,JUL,"Kazhgaleyev, Murtas",Kazakhstan,2619
+95,2005,JUL,"Kempinski, Robert",Poland,2619
+96,2005,JUL,"Kharlov, Andrei",Russia,2619
+97,2005,JUL,"Felgaer, Ruben",Argentina,2618
+98,2005,JUL,"Inarkiev, Ernesto",Russia,2618
+99,2005,JUL,"Nunn, John D.M.",England,2617
+100,2005,JUL,"Sadler, Matthew",England,2617
+1,2006,JUL,"Topalov, Veselin",Bulgaria,2813
+2,2006,JUL,"Kasparov, Garry",Russia,2812
+3,2006,JUL,"Fischer, Robert J",United States of America,2780
+4,2006,JUL,"Anand, Viswanathan",India,2779
+5,2006,JUL,"Aronian, Levon",Armenia,2761
+6,2006,JUL,"Kramnik, Vladimir",Russia,2743
+7,2006,JUL,"Svidler, Peter",Russia,2742
+8,2006,JUL,"Leko, Peter",Hungary,2738
+9,2006,JUL,"Ivanchuk, Vassily",Ukraine,2734
+10,2006,JUL,"Adams, Michael",England,2732
+11,2006,JUL,"Morozevich, Alexander",Russia,2731
+12,2006,JUL,"Gelfand, Boris",Israel,2729
+13,2006,JUL,"Radjabov, Teimour",Azerbaijan,2728
+14,2006,JUL,"Mamedyarov, Shakhriyar",Azerbaijan,2722
+15,2006,JUL,"Ponomariov, Ruslan",Ukraine,2721
+16,2006,JUL,"Navara, David",Czech Republic,2719
+17,2006,JUL,"Shirov, Alexei",Spain,2716
+18,2006,JUL,"Akopian, Vladimir",Armenia,2713
+19,2006,JUL,"Polgar, Judit",Hungary,2710
+20,2006,JUL,"Grischuk, Alexander",Russia,2709
+21,2006,JUL,"Bacrot, Etienne",France,2707
+22,2006,JUL,"Kamsky, Gata",United States of America,2697
+23,2006,JUL,"Nisipeanu, Liviu-Dieter",Romania,2696
+24,2006,JUL,"Malakhov, Vladimir",Russia,2690
+25,2006,JUL,"Georgiev, Kiril",Bulgaria,2685
+26,2006,JUL,"Bareev, Evgeny",Russia,2683
+27,2006,JUL,"Harikrishna, P.",India,2682
+28,2006,JUL,"Karjakin, Sergey",Ukraine,2679
+29,2006,JUL,"Najer, Evgeniy",Russia,2677
+30,2006,JUL,"Short, Nigel D.",England,2676
+31,2006,JUL,"Carlsen, Magnus",Norway,2675
+32,2006,JUL,"Lautier, Joel",France,2675
+33,2006,JUL,"Sasikiran, Krishnan",India,2675
+34,2006,JUL,"Van Wely, Loek",Netherlands,2675
+35,2006,JUL,"Zvjaginsev, Vadim",Russia,2675
+36,2006,JUL,"Vallejo Pons, Francisco",Spain,2674
+37,2006,JUL,"Almasi, Zoltan",Hungary,2672
+38,2006,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2672
+39,2006,JUL,"Azmaiparashvili, Zurab",Georgia,2669
+40,2006,JUL,"Karpov, Anatoly",Russia,2668
+41,2006,JUL,"Onischuk, Alexander",United States of America,2668
+42,2006,JUL,"Tiviakov, Sergei",Netherlands,2668
+43,2006,JUL,"Bruzon, Lazaro",Cuba,2667
+44,2006,JUL,"Jakovenko, Dmitry",Russia,2667
+45,2006,JUL,"Rublevsky, Sergei",Russia,2667
+46,2006,JUL,"Sargissian, Gabriel",Armenia,2667
+47,2006,JUL,"Dreev, Alexey",Russia,2666
+48,2006,JUL,"Bu, Xiangzhi",China,2664
+49,2006,JUL,"Naiditsch, Arkadij",Germany,2664
+50,2006,JUL,"Motylev, Alexander",Russia,2662
+51,2006,JUL,"Volokitin, Andrei",Ukraine,2662
+52,2006,JUL,"Izoria, Zviad",Georgia,2660
+53,2006,JUL,"Smirin, Ilia",Israel,2659
+54,2006,JUL,"Dominguez, Lenier",Cuba,2658
+55,2006,JUL,"Timofeev, Artyom",Russia,2657
+56,2006,JUL,"Sokolov, Ivan",Netherlands,2652
+57,2006,JUL,"Eljanov, Pavel",Ukraine,2651
+58,2006,JUL,"Jobava, Baadur",Georgia,2651
+59,2006,JUL,"Moiseenko, Alexander",Ukraine,2649
+60,2006,JUL,"Kobalia, Mikhail",Russia,2647
+61,2006,JUL,"Bologan, Viktor",Moldova,2645
+62,2006,JUL,"Tkachiev, Vladislav",France,2645
+63,2006,JUL,"Alekseev, Evgeny",Russia,2644
+64,2006,JUL,"Gashimov, Vugar",Azerbaijan,2644
+65,2006,JUL,"Salov, Valery",Russia,2644
+66,2006,JUL,"Gurevich, Mikhail",Turkey,2643
+67,2006,JUL,"Sakaev, Konstantin",Russia,2642
+68,2006,JUL,"Areshchenko, Alexander",Ukraine,2641
+69,2006,JUL,"Avrukh, Boris",Israel,2641
+70,2006,JUL,"Ye, Jiangchuan",China,2641
+71,2006,JUL,"Nielsen, Peter Heine",Denmark,2640
+72,2006,JUL,"Zhang, Zhong",China,2639
+73,2006,JUL,"Korneev, Oleg",Russia,2638
+74,2006,JUL,"Miton, Kamil",Poland,2638
+75,2006,JUL,"Seirawan, Yasser",United States of America,2638
+76,2006,JUL,"Delchev, Aleksander",Bulgaria,2637
+77,2006,JUL,"Movsesian, Sergei",Slovakia,2637
+78,2006,JUL,"Asrian, Karen",Armenia,2635
+79,2006,JUL,"Krasenkow, Michal",Poland,2635
+80,2006,JUL,"Granda Zuniga, Julio E",Peru,2634
+81,2006,JUL,"Lputian, Smbat G",Armenia,2634
+82,2006,JUL,"Cheparinov, Ivan",Bulgaria,2632
+83,2006,JUL,"Efimenko, Zahar",Ukraine,2632
+84,2006,JUL,"Nakamura, Hikaru",United States of America,2632
+85,2006,JUL,"Volkov, Sergey",Russia,2628
+86,2006,JUL,"Aleksandrov, Aleksej",Belarus,2627
+87,2006,JUL,"Fressinet, Laurent",France,2626
+88,2006,JUL,"Nikolic, Predrag",Bosnia & Herzegovina,2626
+89,2006,JUL,"Wang, Yue",China,2626
+90,2006,JUL,"Beliavsky, Alexander G",Slovenia,2625
+91,2006,JUL,"Damljanovic, Branko",Serbia and Montenegro,2625
+92,2006,JUL,"Hansen, Curt",Denmark,2625
+93,2006,JUL,"Inarkiev, Ernesto",Russia,2625
+94,2006,JUL,"Ibragimov, Ildar",United States of America,2624
+95,2006,JUL,"Piket, Jeroen",Netherlands,2624
+96,2006,JUL,"Khalifman, Alexander",Russia,2622
+97,2006,JUL,"Riazantsev, Alexander",Russia,2622
+98,2006,JUL,"Wojtaszek, Radoslaw",Poland,2622
+99,2006,JUL,"Zhang, Pengxiang",China,2622
+100,2006,JUL,"Baklan, Vladimir",Ukraine,2621
+1,2007,JUL,"Kasparov, Garry",Russia,2812
+2,2007,JUL,"Anand, Viswanathan",India,2792
+3,2007,JUL,"Fischer, Robert J",United States of America,2780
+4,2007,JUL,"Kramnik, Vladimir",Russia,2769
+5,2007,JUL,"Topalov, Veselin",Bulgaria,2769
+6,2007,JUL,"Ivanchuk, Vassily",Ukraine,2762
+7,2007,JUL,"Morozevich, Alexander",Russia,2758
+8,2007,JUL,"Mamedyarov, Shakhriyar",Azerbaijan,2757
+9,2007,JUL,"Leko, Peter",Hungary,2751
+10,2007,JUL,"Aronian, Levon",Armenia,2750
+11,2007,JUL,"Radjabov, Teimour",Azerbaijan,2746
+12,2007,JUL,"Jakovenko, Dmitry",Russia,2735
+13,2007,JUL,"Shirov, Alexei",Spain,2735
+14,2007,JUL,"Svidler, Peter",Russia,2735
+15,2007,JUL,"Gelfand, Boris",Israel,2733
+16,2007,JUL,"Grischuk, Alexander",Russia,2726
+17,2007,JUL,"Adams, Michael",England,2724
+18,2007,JUL,"Kamsky, Gata",United States of America,2718
+19,2007,JUL,"Carlsen, Magnus",Norway,2710
+20,2007,JUL,"Akopian, Vladimir",Armenia,2708
+21,2007,JUL,"Polgar, Judit",Hungary,2707
+22,2007,JUL,"Ponomariov, Ruslan",Ukraine,2706
+23,2007,JUL,"Eljanov, Pavel",Ukraine,2701
+24,2007,JUL,"Wang, Yue",China,2696
+25,2007,JUL,"Bacrot, Etienne",France,2695
+26,2007,JUL,"Alekseev, Evgeny",Russia,2689
+27,2007,JUL,"Bu, Xiangzhi",China,2685
+28,2007,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2683
+29,2007,JUL,"Nisipeanu, Liviu-Dieter",Romania,2683
+30,2007,JUL,"Short, Nigel D",England,2683
+31,2007,JUL,"Almasi, Zoltan",Hungary,2682
+32,2007,JUL,"Ni, Hua",China,2681
+33,2007,JUL,"Volokitin, Andrei",Ukraine,2681
+34,2007,JUL,"Dominguez Perez, Lenier",Cuba,2680
+35,2007,JUL,"Van Wely, Loek",Netherlands,2680
+36,2007,JUL,"Rublevsky, Sergei",Russia,2679
+37,2007,JUL,"Karjakin, Sergey",Ukraine,2678
+38,2007,JUL,"Milov, Vadim",Switzerland,2678
+39,2007,JUL,"Malakhov, Vladimir",Russia,2676
+40,2007,JUL,"Sasikiran, Krishnan",India,2676
+41,2007,JUL,"Miroshnichenko, Evgenij",Ukraine,2671
+42,2007,JUL,"Landa, Konstantin",Russia,2669
+43,2007,JUL,"Karpov, Anatoly",Russia,2668
+44,2007,JUL,"Movsesian, Sergei",Slovakia,2667
+45,2007,JUL,"Sargissian, Gabriel",Armenia,2667
+46,2007,JUL,"Sokolov, Ivan",Netherlands,2666
+47,2007,JUL,"Vallejo Pons, Francisco",Spain,2666
+48,2007,JUL,"Harikrishna, P.",India,2664
+49,2007,JUL,"Georgiev, Kiril",Bulgaria,2663
+50,2007,JUL,"Inarkiev, Ernesto",Russia,2663
+51,2007,JUL,"Krasenkow, Michal",Poland,2660
+52,2007,JUL,"Socko, Bartosz",Poland,2660
+53,2007,JUL,"Volkov, Sergey",Russia,2659
+54,2007,JUL,"Zvjaginsev, Vadim",Russia,2658
+55,2007,JUL,"Cheparinov, Ivan",Bulgaria,2657
+56,2007,JUL,"Navara, David",Czech Republic,2656
+57,2007,JUL,"Sutovsky, Emil",Israel,2656
+58,2007,JUL,"Gashimov, Vugar",Azerbaijan,2655
+59,2007,JUL,"Tkachiev, Vladislav",France,2655
+60,2007,JUL,"Lautier, Joel",France,2654
+61,2007,JUL,"Tomashevsky, Evgeny",Russia,2654
+62,2007,JUL,"Bareev, Evgeny",Russia,2653
+63,2007,JUL,"Beliavsky, Alexander G",Slovenia,2653
+64,2007,JUL,"Naiditsch, Arkadij",Germany,2652
+65,2007,JUL,"Bologan, Viktor",Moldova,2650
+66,2007,JUL,"Onischuk, Alexander",United States of America,2650
+67,2007,JUL,"Timofeev, Artyom",Russia,2650
+68,2007,JUL,"Smirin, Ilia",Israel,2649
+69,2007,JUL,"Zhang, Pengxiang",China,2649
+70,2007,JUL,"Baklan, Vladimir",Ukraine,2648
+71,2007,JUL,"Miton, Kamil",Poland,2648
+72,2007,JUL,"Motylev, Alexander",Russia,2648
+73,2007,JUL,"Tiviakov, Sergei",Netherlands,2648
+74,2007,JUL,"Nakamura, Hikaru",United States of America,2647
+75,2007,JUL,"Fressinet, Laurent",France,2646
+76,2007,JUL,"Izoria, Zviad",Georgia,2646
+77,2007,JUL,"Nikolic, Predrag",Bosnia & Herzegovina,2646
+78,2007,JUL,"Areshchenko, Alexander",Ukraine,2645
+79,2007,JUL,"Avrukh, Boris",Israel,2645
+80,2007,JUL,"Jobava, Baadur",Georgia,2644
+81,2007,JUL,"Salov, Valery",Russia,2644
+82,2007,JUL,"Afromeev, Vladimir",Russia,2642
+83,2007,JUL,"Moiseenko, Alexander",Ukraine,2641
+84,2007,JUL,"Nielsen, Peter Heine",Denmark,2637
+85,2007,JUL,"Shabalov, Alexander",United States of America,2637
+86,2007,JUL,"Wojtaszek, Radoslaw",Poland,2637
+87,2007,JUL,"Smirnov, Pavel",Russia,2636
+88,2007,JUL,"Kobalia, Mikhail",Russia,2634
+89,2007,JUL,"Sakaev, Konstantin",Russia,2634
+90,2007,JUL,"Seirawan, Yasser",United States of America,2634
+91,2007,JUL,"Zhang, Zhong",Singapore,2634
+92,2007,JUL,"Gurevich, Mikhail",Turkey,2633
+93,2007,JUL,"Lputian, Smbat G",Armenia,2633
+94,2007,JUL,"Khalifman, Alexander",Russia,2632
+95,2007,JUL,"Ye, Jiangchuan",China,2632
+96,2007,JUL,"Stellwagen, Daniel",Netherlands,2631
+97,2007,JUL,"Roiz, Michael",Israel,2630
+98,2007,JUL,"Ehlvest, Jaan",United States of America,2629
+99,2007,JUL,"Istratescu, Andrei",Romania,2629
+100,2007,JUL,"Sadvakasov, Darmen",Kazakhstan,2629
+1,2008,JUL,"Kasparov, Garry",Russia,2812
+2,2008,JUL,"Anand, Viswanathan",India,2798
+3,2008,JUL,"Kramnik, Vladimir",Russia,2788
+4,2008,JUL,"Morozevich, Alexander",Russia,2788
+5,2008,JUL,"Ivanchuk, Vassily",Ukraine,2781
+6,2008,JUL,"Topalov, Veselin",Bulgaria,2777
+7,2008,JUL,"Carlsen, Magnus",Norway,2775
+8,2008,JUL,"Radjabov, Teimour",Azerbaijan,2744
+9,2008,JUL,"Mamedyarov, Shakhriyar",Azerbaijan,2742
+10,2008,JUL,"Leko, Peter",Hungary,2741
+11,2008,JUL,"Shirov, Alexei",Spain,2741
+12,2008,JUL,"Svidler, Peter",Russia,2738
+13,2008,JUL,"Aronian, Levon",Armenia,2737
+14,2008,JUL,"Adams, Michael",England,2735
+15,2008,JUL,"Grischuk, Alexander",Russia,2728
+16,2008,JUL,"Karjakin, Sergey",Ukraine,2727
+17,2008,JUL,"Kamsky, Gata",United States of America,2723
+18,2008,JUL,"Movsesian, Sergei",Slovakia,2723
+19,2008,JUL,"Gelfand, Boris",Israel,2720
+20,2008,JUL,"Ponomariov, Ruslan",Ukraine,2718
+21,2008,JUL,"Gashimov, Vugar",Azerbaijan,2717
+22,2008,JUL,"Eljanov, Pavel",Ukraine,2716
+23,2008,JUL,"Polgar, Judit",Hungary,2711
+24,2008,JUL,"Bu, Xiangzhi",China,2710
+25,2008,JUL,"Jakovenko, Dmitry",Russia,2709
+26,2008,JUL,"Alekseev, Evgeny",Russia,2708
+27,2008,JUL,"Dominguez Perez, Leinier",Cuba,2708
+28,2008,JUL,"Milov, Vadim",Switzerland,2705
+29,2008,JUL,"Ni, Hua",China,2705
+30,2008,JUL,"Wang, Yue",China,2704
+31,2008,JUL,"Rublevsky, Sergei",Russia,2699
+32,2008,JUL,"Nakamura, Hikaru",United States of America,2697
+33,2008,JUL,"Nisipeanu, Liviu-Dieter",Romania,2692
+34,2008,JUL,"Bacrot, Etienne",France,2691
+35,2008,JUL,"Wang, Hao",China,2691
+36,2008,JUL,"Malakhov, Vladimir",Russia,2689
+37,2008,JUL,"Cheparinov, Ivan",Bulgaria,2687
+38,2008,JUL,"Bologan, Viktor",Moldova,2686
+39,2008,JUL,"Sasikiran, Krishnan",India,2684
+40,2008,JUL,"Vachier-Lagrave, Maxime",France,2681
+41,2008,JUL,"Roiz, Michael",Israel,2680
+42,2008,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2679
+43,2008,JUL,"Inarkiev, Ernesto",Russia,2675
+44,2008,JUL,"Motylev, Alexander",Russia,2674
+45,2008,JUL,"Akopian, Vladimir",Armenia,2673
+46,2008,JUL,"Fressinet, Laurent",France,2673
+47,2008,JUL,"Georgiev, Kiril",Bulgaria,2671
+48,2008,JUL,"Volokitin, Andrei",Ukraine,2671
+49,2008,JUL,"Efimenko, Zahar",Ukraine,2670
+50,2008,JUL,"Najer, Evgeniy",Russia,2670
+51,2008,JUL,"Onischuk, Alexander",United States of America,2670
+52,2008,JUL,"Nikolic, Predrag",Bosnia & Herzegovina,2669
+53,2008,JUL,"Almasi, Zoltan",Hungary,2668
+54,2008,JUL,"Harikrishna, P.",India,2668
+55,2008,JUL,"Jobava, Baadur",Georgia,2665
+56,2008,JUL,"Naiditsch, Arkadij",Germany,2665
+57,2008,JUL,"Areshchenko, Alexander",Ukraine,2664
+58,2008,JUL,"Ivanisevic, Ivan",Serbia,2664
+59,2008,JUL,"Tkachiev, Vladislav",France,2664
+60,2008,JUL,"Zvjaginsev, Vadim",Russia,2663
+61,2008,JUL,"Postny, Evgeny",Israel,2661
+62,2008,JUL,"Sargissian, Gabriel",Armenia,2660
+63,2008,JUL,"Sokolov, Ivan",Netherlands,2658
+64,2008,JUL,"Tregubov, Pavel V.",Russia,2658
+65,2008,JUL,"Dreev, Alexey",Russia,2657
+66,2008,JUL,"Lautier, Joel",France,2657
+67,2008,JUL,"Avrukh, Boris",Israel,2656
+68,2008,JUL,"Bareev, Evgeny",Russia,2655
+69,2008,JUL,"Khenkin, Igor",Germany,2655
+70,2008,JUL,"Short, Nigel D",England,2655
+71,2008,JUL,"Sutovsky, Emil",Israel,2654
+72,2008,JUL,"Nielsen, Peter Heine",Denmark,2652
+73,2008,JUL,"Karpov, Anatoly",Russia,2651
+74,2008,JUL,"Amonatov, Farrukh",Tajikistan,2650
+75,2008,JUL,"Timofeev, Artyom",Russia,2650
+76,2008,JUL,"Vallejo Pons, Francisco",Spain,2650
+77,2008,JUL,"Afromeev, Vladimir",Russia,2646
+78,2008,JUL,"Navara, David",Czech Republic,2646
+79,2008,JUL,"Tomashevsky, Evgeny",Russia,2646
+80,2008,JUL,"Berkes, Ferenc",Hungary,2645
+81,2008,JUL,"Tiviakov, Sergei",Netherlands,2645
+82,2008,JUL,"Salov, Valery",Russia,2644
+83,2008,JUL,"Van Wely, Loek",Netherlands,2644
+84,2008,JUL,"Guseinov, Gadir",Azerbaijan,2643
+85,2008,JUL,"Zhang, Pengxiang",China,2643
+86,2008,JUL,"Kazhgaleyev, Murtas",Kazakhstan,2641
+87,2008,JUL,"Grachev, Boris",Russia,2640
+88,2008,JUL,"Krasenkow, Michal",Poland,2639
+89,2008,JUL,"Lastin, Alexander",Russia,2639
+90,2008,JUL,"Nyback, Tomi",Finland,2639
+91,2008,JUL,"Fridman, Daniel",Germany,2637
+92,2008,JUL,"Smirin, Ilia",Israel,2637
+93,2008,JUL,"Istratescu, Andrei",Romania,2636
+94,2008,JUL,"Volkov, Sergey",Russia,2636
+95,2008,JUL,"Khalifman, Alexander",Russia,2634
+96,2008,JUL,"Predojevic, Borki",Bosnia & Herzegovina,2634
+97,2008,JUL,"Sakaev, Konstantin",Russia,2634
+98,2008,JUL,"Seirawan, Yasser",United States of America,2634
+99,2008,JUL,"Moiseenko, Alexander",Ukraine,2632
+100,2008,JUL,"Sadvakasov, Darmen",Kazakhstan,2632
+1,2009,JUL,"Topalov, Veselin",Bulgaria,2813
+2,2009,JUL,"Kasparov, Garry",Russia,2812
+3,2009,JUL,"Anand, Viswanathan",India,2788
+4,2009,JUL,"Carlsen, Magnus",Norway,2772
+5,2009,JUL,"Aronian, Levon",Armenia,2768
+6,2009,JUL,"Jakovenko, Dmitry",Russia,2760
+7,2009,JUL,"Kramnik, Vladimir",Russia,2759
+8,2009,JUL,"Leko, Peter",Hungary,2756
+9,2009,JUL,"Radjabov, Teimour",Azerbaijan,2756
+10,2009,JUL,"Gelfand, Boris",Israel,2755
+11,2009,JUL,"Morozevich, Alexander",Russia,2751
+12,2009,JUL,"Gashimov, Vugar",Azerbaijan,2740
+13,2009,JUL,"Svidler, Peter",Russia,2739
+14,2009,JUL,"Wang, Yue",China,2736
+15,2009,JUL,"Grischuk, Alexander",Russia,2733
+16,2009,JUL,"Shirov, Alexei",Spain,2732
+17,2009,JUL,"Ponomariov, Ruslan",Ukraine,2727
+18,2009,JUL,"Bacrot, Etienne",France,2721
+19,2009,JUL,"Kamsky, Gata",United States of America,2717
+20,2009,JUL,"Karjakin, Sergey",Ukraine,2717
+21,2009,JUL,"Mamedyarov, Shakhriyar",Azerbaijan,2717
+22,2009,JUL,"Dominguez Perez, Leinier",Cuba,2716
+23,2009,JUL,"Eljanov, Pavel",Ukraine,2716
+24,2009,JUL,"Movsesian, Sergei",Slovakia,2716
+25,2009,JUL,"Alekseev, Evgeny",Russia,2714
+26,2009,JUL,"Akopian, Vladimir",Armenia,2712
+27,2009,JUL,"Motylev, Alexander",Russia,2710
+28,2009,JUL,"Nakamura, Hikaru",United States of America,2710
+29,2009,JUL,"Malakhov, Vladimir",Russia,2707
+30,2009,JUL,"Ivanchuk, Vassily",Ukraine,2703
+31,2009,JUL,"Rublevsky, Sergei",Russia,2703
+32,2009,JUL,"Vachier-Lagrave, Maxime",France,2703
+33,2009,JUL,"Bu, Xiangzhi",China,2702
+34,2009,JUL,"Ni, Hua",China,2701
+35,2009,JUL,"Adams, Michael",England,2699
+36,2009,JUL,"Onischuk, Alexander",United States of America,2699
+37,2009,JUL,"Naiditsch, Arkadij",Germany,2697
+38,2009,JUL,"Miroshnichenko, Evgenij",Ukraine,2696
+39,2009,JUL,"Vallejo Pons, Francisco",Spain,2693
+40,2009,JUL,"Wang, Hao",China,2690
+41,2009,JUL,"Bologan, Viktor",Moldova,2689
+42,2009,JUL,"Tomashevsky, Evgeny",Russia,2689
+43,2009,JUL,"Navara, David",Czech Republic,2687
+44,2009,JUL,"Polgar, Judit",Hungary,2687
+45,2009,JUL,"Almasi, Zoltan",Hungary,2684
+46,2009,JUL,"Jobava, Baadur",Georgia,2684
+47,2009,JUL,"Short, Nigel D",England,2684
+48,2009,JUL,"Moiseenko, Alexander",Ukraine,2682
+49,2009,JUL,"Timofeev, Artyom",Russia,2681
+50,2009,JUL,"Vitiugov, Nikita",Russia,2681
+51,2009,JUL,"Nielsen, Peter Heine",Denmark,2680
+52,2009,JUL,"Harikrishna, P.",India,2679
+53,2009,JUL,"Cheparinov, Ivan",Bulgaria,2678
+54,2009,JUL,"Volokitin, Andrei",Ukraine,2678
+55,2009,JUL,"Inarkiev, Ernesto",Russia,2675
+56,2009,JUL,"Nisipeanu, Liviu-Dieter",Romania,2675
+57,2009,JUL,"Sutovsky, Emil",Israel,2675
+58,2009,JUL,"Tiviakov, Sergei",Netherlands,2674
+59,2009,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2672
+60,2009,JUL,"Caruana, Fabiano",Italy,2670
+61,2009,JUL,"Grachev, Boris",Russia,2669
+62,2009,JUL,"Kurnosov, Igor",Russia,2669
+63,2009,JUL,"Sasikiran, Krishnan",India,2669
+64,2009,JUL,"Fressinet, Laurent",France,2667
+65,2009,JUL,"Sargissian, Gabriel",Armenia,2667
+66,2009,JUL,"Fridman, Daniel",Germany,2665
+67,2009,JUL,"Guseinov, Gadir",Azerbaijan,2664
+68,2009,JUL,"Najer, Evgeniy",Russia,2663
+69,2009,JUL,"Beliavsky, Alexander G",Slovenia,2662
+70,2009,JUL,"Dreev, Alexey",Russia,2660
+71,2009,JUL,"Milov, Vadim",Switzerland,2659
+72,2009,JUL,"Lautier, Joel",France,2658
+73,2009,JUL,"Meier, Georg",Germany,2658
+74,2009,JUL,"Roiz, Michael",Israel,2658
+75,2009,JUL,"Socko, Bartosz",Poland,2656
+76,2009,JUL,"Fedorchuk, Sergey A.",Ukraine,2655
+77,2009,JUL,"Landa, Konstantin",Russia,2655
+78,2009,JUL,"Sokolov, Ivan",Bosnia & Herzegovina,2655
+79,2009,JUL,"Van Wely, Loek",Netherlands,2655
+80,2009,JUL,"Efimenko, Zahar",Ukraine,2654
+81,2009,JUL,"Tregubov, Pavel V.",Russia,2652
+82,2009,JUL,"Areshchenko, Alexander",Ukraine,2651
+83,2009,JUL,"Pashikian, Arman",Armenia,2650
+84,2009,JUL,"Savchenko, Boris",Russia,2650
+85,2009,JUL,"Smirin, Ilia",Israel,2650
+86,2009,JUL,"Tkachiev, Vladislav",France,2650
+87,2009,JUL,"Andreikin, Dmitry",Russia,2648
+88,2009,JUL,"Lastin, Alexander",Russia,2648
+89,2009,JUL,"Shulman, Yuri",United States of America,2648
+90,2009,JUL,"Berkes, Ferenc",Hungary,2647
+91,2009,JUL,"Granda Zuniga, Julio E",Peru,2647
+92,2009,JUL,"Postny, Evgeny",Israel,2647
+93,2009,JUL,"Riazantsev, Alexander",Russia,2647
+94,2009,JUL,"Afromeev, Vladimir",Russia,2646
+95,2009,JUL,"Seirawan, Yasser",United States of America,2646
+96,2009,JUL,"So, Wesley",Philippines,2646
+97,2009,JUL,"Georgiev, Kiril",Bulgaria,2645
+98,2009,JUL,"Kobalia, Mikhail",Russia,2645
+99,2009,JUL,"Mamedov, Rauf",Azerbaijan,2645
+100,2009,JUL,"Karpov, Anatoly",Russia,2644
+1,2010,JUL,"Carlsen, Magnus",Norway,2826
+2,2010,JUL,"Kasparov, Garry",Russia,2812
+3,2010,JUL,"Topalov, Veselin",Bulgaria,2803
+4,2010,JUL,"Anand, Viswanathan",India,2800
+5,2010,JUL,"Kramnik, Vladimir",Russia,2790
+6,2010,JUL,"Aronian, Levon",Armenia,2783
+7,2010,JUL,"Mamedyarov, Shakhriyar",Azerbaijan,2761
+8,2010,JUL,"Grischuk, Alexander",Russia,2760
+9,2010,JUL,"Eljanov, Pavel",Ukraine,2755
+10,2010,JUL,"Shirov, Alexei",Spain,2749
+11,2010,JUL,"Radjabov, Teimour",Azerbaijan,2748
+12,2010,JUL,"Karjakin, Sergey",Russia,2747
+13,2010,JUL,"Gelfand, Boris",Israel,2739
+14,2010,JUL,"Ivanchuk, Vassily",Ukraine,2739
+15,2010,JUL,"Leko, Peter",Hungary,2734
+16,2010,JUL,"Ponomariov, Ruslan",Ukraine,2734
+17,2010,JUL,"Svidler, Peter",Russia,2734
+18,2010,JUL,"Malakhov, Vladimir",Russia,2732
+19,2010,JUL,"Navara, David",Czech Republic,2731
+20,2010,JUL,"Nakamura, Hikaru",United States of America,2729
+21,2010,JUL,"Jakovenko, Dmitry",Russia,2726
+22,2010,JUL,"Wang, Hao",China,2724
+23,2010,JUL,"Movsesian, Sergei",Slovakia,2723
+24,2010,JUL,"Vachier-Lagrave, Maxime",France,2723
+25,2010,JUL,"Vitiugov, Nikita",Russia,2722
+26,2010,JUL,"Bacrot, Etienne",France,2720
+27,2010,JUL,"Gashimov, Vugar",Azerbaijan,2719
+28,2010,JUL,"Almasi, Zoltan",Hungary,2717
+29,2010,JUL,"Dominguez Perez, Leinier",Cuba,2716
+30,2010,JUL,"Wang, Yue",China,2716
+31,2010,JUL,"Morozevich, Alexander",Russia,2715
+32,2010,JUL,"Kamsky, Gata",United States of America,2713
+33,2010,JUL,"Jobava, Baadur",Georgia,2710
+34,2010,JUL,"Tomashevsky, Evgeny",Russia,2708
+35,2010,JUL,"Adams, Michael",England,2706
+36,2010,JUL,"Nepomniachtchi, Ian",Russia,2706
+37,2010,JUL,"Onischuk, Alexander",United States of America,2701
+38,2010,JUL,"Nielsen, Peter Heine",Denmark,2700
+39,2010,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2699
+40,2010,JUL,"Caruana, Fabiano",Italy,2697
+41,2010,JUL,"Fressinet, Laurent",France,2697
+42,2010,JUL,"Vallejo Pons, Francisco",Spain,2697
+43,2010,JUL,"Bologan, Viktor",Moldova,2695
+44,2010,JUL,"Akopian, Vladimir",Armenia,2691
+45,2010,JUL,"Alekseev, Evgeny",Russia,2691
+46,2010,JUL,"Short, Nigel D",England,2690
+47,2010,JUL,"Timofeev, Artyom",Russia,2690
+48,2010,JUL,"Efimenko, Zahar",Ukraine,2689
+49,2010,JUL,"Rublevsky, Sergei",Russia,2688
+50,2010,JUL,"Miroshnichenko, Evgenij",Ukraine,2686
+51,2010,JUL,"Motylev, Alexander",Russia,2685
+52,2010,JUL,"Naiditsch, Arkadij",Germany,2684
+53,2010,JUL,"Nisipeanu, Liviu-Dieter",Romania,2683
+54,2010,JUL,"Polgar, Judit",Hungary,2682
+55,2010,JUL,"Riazantsev, Alexander",Russia,2682
+56,2010,JUL,"Le, Quang Liem",Vietnam,2681
+57,2010,JUL,"Sasikiran, Krishnan",India,2679
+58,2010,JUL,"Van Wely, Loek",Netherlands,2677
+59,2010,JUL,"Bu, Xiangzhi",China,2676
+60,2010,JUL,"Georgiev, Kiril",Bulgaria,2675
+61,2010,JUL,"So, Wesley",Philippines,2674
+62,2010,JUL,"Sargissian, Gabriel",Armenia,2673
+63,2010,JUL,"Giri, Anish",Netherlands,2672
+64,2010,JUL,"Najer, Evgeniy",Russia,2672
+65,2010,JUL,"Inarkiev, Ernesto",Russia,2671
+66,2010,JUL,"Berkes, Ferenc",Hungary,2670
+67,2010,JUL,"Smeets, Jan",Netherlands,2669
+68,2010,JUL,"Grachev, Boris",Russia,2668
+69,2010,JUL,"Zhou, Jianchao",China,2668
+70,2010,JUL,"Khismatullin, Denis",Russia,2667
+71,2010,JUL,"Moiseenko, Alexander",Ukraine,2667
+72,2010,JUL,"Fedorchuk, Sergey A.",Ukraine,2665
+73,2010,JUL,"Sutovsky, Emil",Israel,2665
+74,2010,JUL,"Areshchenko, Alexander",Ukraine,2664
+75,2010,JUL,"Bareev, Evgeny",Russia,2663
+76,2010,JUL,"Wojtaszek, Radoslaw",Poland,2663
+77,2010,JUL,"Kurnosov, Igor",Russia,2662
+78,2010,JUL,"Cheparinov, Ivan",Bulgaria,2661
+79,2010,JUL,"Volokitin, Andrei",Ukraine,2661
+80,2010,JUL,"Dreev, Alexey",Russia,2660
+81,2010,JUL,"Mamedov, Rauf",Azerbaijan,2660
+82,2010,JUL,"Lautier, Joel",France,2658
+83,2010,JUL,"Korobov, Anton",Ukraine,2657
+84,2010,JUL,"Zhigalko, Sergei",Belarus,2656
+85,2010,JUL,"Zvjaginsev, Vadim",Russia,2656
+86,2010,JUL,"Ganguly, Surya Shekhar",India,2655
+87,2010,JUL,"Bruzon Batista, Lazaro",Cuba,2653
+88,2010,JUL,"Andreikin, Dmitry",Russia,2650
+89,2010,JUL,"Gharamian, Tigran",France,2650
+90,2010,JUL,"Kobalia, Mikhail",Russia,2648
+91,2010,JUL,"Meier, Georg",Germany,2648
+92,2010,JUL,"Afromeev, Vladimir",Russia,2646
+93,2010,JUL,"Harikrishna, P.",India,2646
+94,2010,JUL,"Smirin, Ilia",Israel,2646
+95,2010,JUL,"Socko, Bartosz",Poland,2646
+96,2010,JUL,"Fridman, Daniel",Germany,2645
+97,2010,JUL,"Ni, Hua",China,2645
+98,2010,JUL,"Roiz, Michael",Israel,2645
+99,2010,JUL,"Milov, Vadim",Switzerland,2644
+100,2010,JUL,"Salov, Valery",Russia,2644
+1,2011,JUL,"Carlsen, Magnus",Norway,2821
+2,2011,JUL,"Anand, Viswanathan",India,2817
+3,2011,JUL,"Kasparov, Garry",Russia,2812
+4,2011,JUL,"Aronian, Levon",Armenia,2805
+5,2011,JUL,"Karjakin, Sergey",Russia,2788
+6,2011,JUL,"Kramnik, Vladimir",Russia,2781
+7,2011,JUL,"Nakamura, Hikaru",United States of America,2770
+8,2011,JUL,"Ivanchuk, Vassily",Ukraine,2768
+9,2011,JUL,"Topalov, Veselin",Bulgaria,2768
+10,2011,JUL,"Mamedyarov, Shakhriyar",Azerbaijan,2765
+11,2011,JUL,"Ponomariov, Ruslan",Ukraine,2764
+12,2011,JUL,"Gashimov, Vugar",Azerbaijan,2760
+13,2011,JUL,"Gelfand, Boris",Israel,2746
+14,2011,JUL,"Grischuk, Alexander",Russia,2746
+15,2011,JUL,"Radjabov, Teimour",Azerbaijan,2744
+16,2011,JUL,"Kamsky, Gata",United States of America,2741
+17,2011,JUL,"Svidler, Peter",Russia,2739
+18,2011,JUL,"Jakovenko, Dmitry",Russia,2736
+19,2011,JUL,"Vitiugov, Nikita",Russia,2733
+20,2011,JUL,"Almasi, Zoltan",Hungary,2726
+21,2011,JUL,"Vallejo Pons, Francisco",Spain,2724
+22,2011,JUL,"Navara, David",Czech Republic,2722
+23,2011,JUL,"Vachier-Lagrave, Maxime",France,2722
+24,2011,JUL,"Dominguez Perez, Leinier",Cuba,2719
+25,2011,JUL,"Wang, Hao",China,2718
+26,2011,JUL,"Leko, Peter",Hungary,2717
+27,2011,JUL,"Adams, Michael",England,2715
+28,2011,JUL,"Le, Quang Liem",Vietnam,2715
+29,2011,JUL,"Moiseenko, Alexander",Ukraine,2715
+30,2011,JUL,"Shirov, Alexei",Spain,2714
+31,2011,JUL,"Jobava, Baadur",Georgia,2713
+32,2011,JUL,"Caruana, Fabiano",Italy,2711
+33,2011,JUL,"Dreev, Aleksey",Russia,2711
+34,2011,JUL,"Nepomniachtchi, Ian",Russia,2711
+35,2011,JUL,"Bacrot, Etienne",France,2710
+36,2011,JUL,"Wang, Yue",China,2709
+37,2011,JUL,"Tomashevsky, Evgeny",Russia,2707
+38,2011,JUL,"Efimenko, Zahar",Ukraine,2706
+39,2011,JUL,"Malakhov, Vladimir",Russia,2706
+40,2011,JUL,"Naiditsch, Arkadij",Germany,2706
+41,2011,JUL,"Giri, Anish",Netherlands,2701
+42,2011,JUL,"Movsesian, Sergei",Armenia,2700
+43,2011,JUL,"Sutovsky, Emil",Israel,2700
+44,2011,JUL,"Polgar, Judit",Hungary,2699
+45,2011,JUL,"Fressinet, Laurent",France,2698
+46,2011,JUL,"Eljanov, Pavel",Ukraine,2697
+47,2011,JUL,"Andreikin, Dmitry",Russia,2696
+48,2011,JUL,"Berkes, Ferenc",Hungary,2696
+49,2011,JUL,"Morozevich, Alexander",Russia,2694
+50,2011,JUL,"Zhigalko, Sergei",Belarus,2689
+51,2011,JUL,"Riazantsev, Alexander",Russia,2688
+52,2011,JUL,"Short, Nigel D",England,2687
+53,2011,JUL,"Motylev, Alexander",Russia,2685
+54,2011,JUL,"Rublevsky, Sergei",Russia,2684
+55,2011,JUL,"Van Wely, Loek",Netherlands,2683
+56,2011,JUL,"Volokitin, Andrei",Ukraine,2683
+57,2011,JUL,"Wojtaszek, Radoslaw",Poland,2683
+58,2011,JUL,"Areshchenko, Alexander",Ukraine,2682
+59,2011,JUL,"Potkin, Vladimir",Russia,2682
+60,2011,JUL,"Laznicka, Viktor",Czech Republic,2681
+61,2011,JUL,"Nielsen, Peter Heine",Denmark,2681
+62,2011,JUL,"Sasikiran, Krishnan",India,2681
+63,2011,JUL,"Grachev, Boris",Russia,2680
+64,2011,JUL,"Inarkiev, Ernesto",Russia,2679
+65,2011,JUL,"Kobalia, Mikhail",Russia,2679
+66,2011,JUL,"Mamedov, Rauf",Azerbaijan,2679
+67,2011,JUL,"Bologan, Viktor",Moldova,2678
+68,2011,JUL,"Smirin, Ilia",Israel,2676
+69,2011,JUL,"Bu, Xiangzhi",China,2675
+70,2011,JUL,"Onischuk, Alexander",United States of America,2675
+71,2011,JUL,"Bruzon Batista, Lazaro",Cuba,2673
+72,2011,JUL,"Sokolov, Ivan",Netherlands,2672
+73,2011,JUL,"Yu, Yangyi",China,2672
+74,2011,JUL,"Korobov, Anton",Ukraine,2671
+75,2011,JUL,"McShane, Luke J",England,2671
+76,2011,JUL,"Gharamian, Tigran",France,2670
+77,2011,JUL,"Cheparinov, Ivan",Bulgaria,2669
+78,2011,JUL,"Harikrishna, P.",India,2669
+79,2011,JUL,"Kasimdzhanov, Rustam",Uzbekistan,2669
+80,2011,JUL,"Li, Chao b",China,2669
+81,2011,JUL,"Roiz, Michael",Israel,2669
+82,2011,JUL,"Akopian, Vladimir",Armenia,2667
+83,2011,JUL,"Feller, Sebastien",France,2666
+84,2011,JUL,"Timofeev, Artyom",Russia,2665
+85,2011,JUL,"Bareev, Evgeny",Russia,2663
+86,2011,JUL,"Sargissian, Gabriel",Armenia,2663
+87,2011,JUL,"Ni, Hua",China,2662
+88,2011,JUL,"Alekseev, Evgeny",Russia,2659
+89,2011,JUL,"Fridman, Daniel",Germany,2659
+90,2011,JUL,"Zvjaginsev, Vadim",Russia,2659
+91,2011,JUL,"Lautier, Joel",France,2658
+92,2011,JUL,"So, Wesley",Philippines,2658
+93,2011,JUL,"Khismatullin, Denis",Russia,2656
+94,2011,JUL,"Meier, Georg",Germany,2656
+95,2011,JUL,"Sandipan, Chanda",India,2656
+96,2011,JUL,"Ding, Liren",China,2654
+97,2011,JUL,"Georgiev, Kiril",Bulgaria,2654
+98,2011,JUL,"Kryvoruchko, Yuriy",Ukraine,2652
+99,2011,JUL,"Markus, Robert",Serbia,2652
+100,2011,JUL,"Milov, Vadim",Switzerland,2651
+1,2012,DEC,"Carlsen, Magnus",Norway,2848
+2,2012,DEC,"Aronian, Levon",Armenia,2815
+3,2012,DEC,"Kasparov, Garry",Russia,2812
+4,2012,DEC,"Kramnik, Vladimir",Russia,2795
+5,2012,DEC,"Radjabov, Teimour",Azerbaijan,2793
+6,2012,DEC,"Caruana, Fabiano",Italy,2782
+7,2012,DEC,"Anand, Viswanathan",India,2775
+8,2012,DEC,"Karjakin, Sergey",Russia,2775
+9,2012,DEC,"Topalov, Veselin",Bulgaria,2771
+10,2012,DEC,"Ivanchuk, Vassily",Ukraine,2766
+11,2012,DEC,"Grischuk, Alexander",Russia,2764
+12,2012,DEC,"Mamedyarov, Shakhriyar",Azerbaijan,2764
+13,2012,DEC,"Kamsky, Gata",United States of America,2762
+14,2012,DEC,"Nakamura, Hikaru",United States of America,2760
+15,2012,DEC,"Gelfand, Boris",Israel,2751
+16,2012,DEC,"Morozevich, Alexander",Russia,2748
+17,2012,DEC,"Svidler, Peter",Russia,2747
+18,2012,DEC,"Jakovenko, Dmitry",Russia,2741
+19,2012,DEC,"Gashimov, Vugar",Azerbaijan,2737
+20,2012,DEC,"Wang, Hao",China,2737
+21,2012,DEC,"Dominguez Perez, Leinier",Cuba,2734
+22,2012,DEC,"Wojtaszek, Radoslaw",Poland,2734
+23,2012,DEC,"Leko, Peter",Hungary,2732
+24,2012,DEC,"Ponomariov, Ruslan",Ukraine,2732
+25,2012,DEC,"Tomashevsky, Evgeny",Russia,2725
+26,2012,DEC,"Andreikin, Dmitry",Russia,2723
+27,2012,DEC,"Volokitin, Andrei",Ukraine,2722
+28,2012,DEC,"Areshchenko, Alexander",Ukraine,2720
+29,2012,DEC,"Giri, Anish",Netherlands,2720
+30,2012,DEC,"McShane, Luke J",England,2713
+31,2012,DEC,"Jobava, Baadur",Georgia,2711
+32,2012,DEC,"Vachier-Lagrave, Maxime",France,2711
+33,2012,DEC,"Adams, Michael",England,2710
+34,2012,DEC,"Moiseenko, Alexander",Ukraine,2710
+35,2012,DEC,"Navara, David",Czech Republic,2710
+36,2012,DEC,"Cheparinov, Ivan",Bulgaria,2709
+37,2012,DEC,"Malakhov, Vladimir",Russia,2709
+38,2012,DEC,"Naiditsch, Arkadij",Germany,2708
+39,2012,DEC,"Shirov, Alexei",Latvia,2708
+40,2012,DEC,"Nepomniachtchi, Ian",Russia,2707
+41,2012,DEC,"Le, Quang Liem",Vietnam,2705
+42,2012,DEC,"Polgar, Judit",Hungary,2705
+43,2012,DEC,"Riazantsev, Alexander",Russia,2705
+44,2012,DEC,"Akopian, Vladimir",Armenia,2704
+45,2012,DEC,"Bacrot, Etienne",France,2703
+46,2012,DEC,"Ding, Liren",China,2702
+47,2012,DEC,"Korobov, Anton",Ukraine,2702
+48,2012,DEC,"Fressinet, Laurent",France,2700
+49,2012,DEC,"Harikrishna, P.",India,2698
+50,2012,DEC,"Efimenko, Zahar",Ukraine,2696
+51,2012,DEC,"Kasimdzhanov, Rustam",Uzbekistan,2696
+52,2012,DEC,"Wang, Yue",China,2696
+53,2012,DEC,"Vallejo Pons, Francisco",Spain,2694
+54,2012,DEC,"Vitiugov, Nikita",Russia,2694
+55,2012,DEC,"Berkes, Ferenc",Hungary,2693
+56,2012,DEC,"Inarkiev, Ernesto",Russia,2693
+57,2012,DEC,"Bruzon Batista, Lazaro",Cuba,2692
+58,2012,DEC,"Short, Nigel D",England,2692
+59,2012,DEC,"Alekseev, Evgeny",Russia,2691
+60,2012,DEC,"Almasi, Zoltan",Hungary,2689
+61,2012,DEC,"Grachev, Boris",Russia,2688
+62,2012,DEC,"Movsesian, Sergei",Armenia,2688
+63,2012,DEC,"Rublevsky, Sergei",Russia,2688
+64,2012,DEC,"Eljanov, Pavel",Ukraine,2687
+65,2012,DEC,"Edouard, Romain",France,2686
+66,2012,DEC,"Sutovsky, Emil",Israel,2684
+67,2012,DEC,"Bu, Xiangzhi",China,2682
+68,2012,DEC,"So, Wesley",Philippines,2682
+69,2012,DEC,"Zhigalko, Sergei",Belarus,2682
+70,2012,DEC,"Bologan, Viktor",Moldova,2681
+71,2012,DEC,"Yu, Yangyi",China,2681
+72,2012,DEC,"Van Wely, Loek",Netherlands,2678
+73,2012,DEC,"Motylev, Alexander",Russia,2677
+74,2012,DEC,"Nisipeanu, Liviu-Dieter",Romania,2677
+75,2012,DEC,"Sasikiran, Krishnan",India,2676
+76,2012,DEC,"Gyimesi, Zoltan",Hungary,2674
+77,2012,DEC,"Laznicka, Viktor",Czech Republic,2674
+78,2012,DEC,"Kryvoruchko, Yuriy",Ukraine,2671
+79,2012,DEC,"Li, Chao b",China,2670
+80,2012,DEC,"Fridman, Daniel",Germany,2667
+81,2012,DEC,"Sokolov, Ivan",Netherlands,2667
+82,2012,DEC,"Sargissian, Gabriel",Armenia,2666
+83,2012,DEC,"Potkin, Vladimir",Russia,2665
+84,2012,DEC,"Bareev, Evgeny",Russia,2663
+85,2012,DEC,"Gareev, Timur",United States of America,2663
+86,2012,DEC,"Matlakov, Maxim",Russia,2663
+87,2012,DEC,"Tiviakov, Sergei",Netherlands,2663
+88,2012,DEC,"Gupta, Abhijeet",India,2662
+89,2012,DEC,"Fedorchuk, Sergey A.",Ukraine,2661
+90,2012,DEC,"Gharamian, Tigran",France,2661
+91,2012,DEC,"Georgiev, Kiril",Bulgaria,2660
+92,2012,DEC,"Ni, Hua",China,2660
+93,2012,DEC,"Onischuk, Alexander",United States of America,2660
+94,2012,DEC,"Khenkin, Igor",Germany,2659
+95,2012,DEC,"Lautier, Joel",France,2658
+96,2012,DEC,"Zvjaginsev, Vadim",Russia,2658
+97,2012,DEC,"Nielsen, Peter Heine",Denmark,2656
+98,2012,DEC,"Ragger, Markus",Austria,2655
+99,2012,DEC,"Dreev, Aleksey",Russia,2654
+100,2012,DEC,"Istratescu, Andrei",France,2654
+1,2013,DEC,"Carlsen, Magnus",Norway,2872
+2,2013,DEC,"Kasparov, Garry",Russia,2812
+3,2013,DEC,"Aronian, Levon",Armenia,2803
+4,2013,DEC,"Kramnik, Vladimir",Russia,2793
+5,2013,DEC,"Nakamura, Hikaru",United States of America,2786
+6,2013,DEC,"Topalov, Veselin",Bulgaria,2785
+7,2013,DEC,"Grischuk, Alexander",Russia,2783
+8,2013,DEC,"Caruana, Fabiano",Italy,2782
+9,2013,DEC,"Gelfand, Boris",Israel,2777
+10,2013,DEC,"Anand, Viswanathan",India,2773
+11,2013,DEC,"Svidler, Peter",Russia,2758
+12,2013,DEC,"Mamedyarov, Shakhriyar",Azerbaijan,2757
+13,2013,DEC,"Karjakin, Sergey",Russia,2756
+14,2013,DEC,"Adams, Michael",England,2754
+15,2013,DEC,"Dominguez Perez, Leinier",Cuba,2754
+16,2013,DEC,"Vachier-Lagrave, Maxime",France,2745
+17,2013,DEC,"Vitiugov, Nikita",Russia,2741
+18,2013,DEC,"Bacrot, Etienne",France,2740
+19,2013,DEC,"Gashimov, Vugar",Azerbaijan,2737
+20,2013,DEC,"Naiditsch, Arkadij",Germany,2737
+21,2013,DEC,"Wang, Hao",China,2735
+22,2013,DEC,"Giri, Anish",Netherlands,2734
+23,2013,DEC,"Eljanov, Pavel",Ukraine,2733
+24,2013,DEC,"Ivanchuk, Vassily",Ukraine,2731
+25,2013,DEC,"Ponomariov, Ruslan",Ukraine,2731
+26,2013,DEC,"Leko, Peter",Hungary,2730
+27,2013,DEC,"Wang, Yue",China,2723
+28,2013,DEC,"Morozevich, Alexander",Russia,2722
+29,2013,DEC,"Jakovenko, Dmitry",Russia,2721
+30,2013,DEC,"Kamsky, Gata",United States of America,2721
+31,2013,DEC,"Nepomniachtchi, Ian",Russia,2721
+32,2013,DEC,"So, Wesley",Philippines,2719
+33,2013,DEC,"Malakhov, Vladimir",Russia,2716
+34,2013,DEC,"Tomashevsky, Evgeny",Russia,2715
+35,2013,DEC,"Korobov, Anton",Ukraine,2713
+36,2013,DEC,"Moiseenko, Alexander",Ukraine,2713
+37,2013,DEC,"Radjabov, Teimour",Azerbaijan,2713
+38,2013,DEC,"Areshchenko, Alexander",Ukraine,2712
+39,2013,DEC,"Wojtaszek, Radoslaw",Poland,2711
+40,2013,DEC,"Ding, Liren",China,2710
+41,2013,DEC,"Andreikin, Dmitry",Russia,2709
+42,2013,DEC,"Almasi, Zoltan",Hungary,2708
+43,2013,DEC,"Harikrishna, P.",India,2708
+44,2013,DEC,"Navara, David",Czech Republic,2708
+45,2013,DEC,"Fressinet, Laurent",France,2707
+46,2013,DEC,"Rublevsky, Sergei",Russia,2706
+47,2013,DEC,"Jobava, Baadur",Georgia,2705
+48,2013,DEC,"Vallejo Pons, Francisco",Spain,2705
+49,2013,DEC,"Le, Quang Liem",Vietnam,2703
+50,2013,DEC,"Kasimdzhanov, Rustam",Uzbekistan,2701
+51,2013,DEC,"Kryvoruchko, Yuriy",Ukraine,2701
+52,2013,DEC,"Matlakov, Maxim",Russia,2700
+53,2013,DEC,"Alekseev, Evgeny",Russia,2698
+54,2013,DEC,"Inarkiev, Ernesto",Russia,2698
+55,2013,DEC,"Shirov, Alexei",Latvia,2695
+56,2013,DEC,"Polgar, Judit",Hungary,2693
+57,2013,DEC,"Nisipeanu, Liviu-Dieter",Romania,2691
+58,2013,DEC,"Movsesian, Sergei",Armenia,2689
+59,2013,DEC,"Riazantsev, Alexander",Russia,2689
+60,2013,DEC,"Rapport, Richard",Hungary,2687
+61,2013,DEC,"Bu, Xiangzhi",China,2685
+62,2013,DEC,"Akopian, Vladimir",Armenia,2684
+63,2013,DEC,"McShane, Luke J",England,2684
+64,2013,DEC,"Li, Chao b",China,2683
+65,2013,DEC,"Rodshtein, Maxim",Israel,2683
+66,2013,DEC,"Short, Nigel D",England,2683
+67,2013,DEC,"Zhigalko, Sergei",Belarus,2682
+68,2013,DEC,"Laznicka, Viktor",Czech Republic,2681
+69,2013,DEC,"Granda Zuniga, Julio E",Peru,2680
+70,2013,DEC,"Van Wely, Loek",Netherlands,2678
+71,2013,DEC,"Volokitin, Andrei",Ukraine,2678
+72,2013,DEC,"Berkes, Ferenc",Hungary,2677
+73,2013,DEC,"Bruzon Batista, Lazaro",Cuba,2677
+74,2013,DEC,"Sargissian, Gabriel",Armenia,2675
+75,2013,DEC,"Gyimesi, Zoltan",Hungary,2674
+76,2013,DEC,"Khismatullin, Denis",Russia,2674
+77,2013,DEC,"Dreev, Aleksey",Russia,2673
+78,2013,DEC,"Cheparinov, Ivan",Bulgaria,2672
+79,2013,DEC,"Onischuk, Alexander",United States of America,2672
+80,2013,DEC,"Negi, Parimarjan",India,2671
+81,2013,DEC,"Istratescu, Andrei",France,2670
+82,2013,DEC,"Grachev, Boris",Russia,2669
+83,2013,DEC,"Ni, Hua",China,2669
+84,2013,DEC,"Yu, Yangyi",China,2667
+85,2013,DEC,"Lysyj, Igor",Russia,2666
+86,2013,DEC,"Sasikiran, Krishnan",India,2666
+87,2013,DEC,"Edouard, Romain",France,2665
+88,2013,DEC,"Bareev, Evgeny",Russia,2663
+89,2013,DEC,"Bologan, Viktor",Moldova,2661
+90,2013,DEC,"Fedorchuk, Sergey A.",Ukraine,2660
+91,2013,DEC,"Erdos, Viktor",Hungary,2658
+92,2013,DEC,"Lautier, Joel",France,2658
+93,2013,DEC,"Tiviakov, Sergei",Netherlands,2658
+94,2013,DEC,"Socko, Bartosz",Poland,2657
+95,2013,DEC,"Sutovsky, Emil",Israel,2657
+96,2013,DEC,"Gharamian, Tigran",France,2656
+97,2013,DEC,"Mamedov, Rauf",Azerbaijan,2656
+98,2013,DEC,"Efimenko, Zahar",Ukraine,2655
+99,2013,DEC,"Amin, Bassem",Egypt,2654
+100,2013,DEC,"Jones, Gawain C B",England,2654
+1,2014,DEC,"Carlsen, Magnus",Norway,2862
+2,2014,DEC,"Caruana, Fabiano",Italy,2829
+3,2014,DEC,"Kasparov, Garry",Russia,2812
+4,2014,DEC,"Grischuk, Alexander",Russia,2810
+5,2014,DEC,"Topalov, Veselin",Bulgaria,2800
+6,2014,DEC,"Aronian, Levon",Armenia,2797
+7,2014,DEC,"Anand, Viswanathan",India,2793
+8,2014,DEC,"Nakamura, Hikaru",United States of America,2775
+9,2014,DEC,"Karjakin, Sergey",Russia,2773
+10,2014,DEC,"Kramnik, Vladimir",Russia,2769
+11,2014,DEC,"Giri, Anish",Netherlands,2768
+12,2014,DEC,"Mamedyarov, Shakhriyar",Azerbaijan,2765
+13,2014,DEC,"So, Wesley",United States of America,2762
+14,2014,DEC,"Vachier-Lagrave, Maxime",France,2758
+15,2014,DEC,"Adams, Michael",England,2745
+16,2014,DEC,"Wojtaszek, Radoslaw",Poland,2744
+17,2014,DEC,"Gelfand, Boris",Israel,2743
+18,2014,DEC,"Svidler, Peter",Russia,2743
+19,2014,DEC,"Vitiugov, Nikita",Russia,2738
+20,2014,DEC,"Andreikin, Dmitry",Russia,2737
+21,2014,DEC,"Radjabov, Teimour",Azerbaijan,2734
+22,2014,DEC,"Jobava, Baadur",Georgia,2733
+23,2014,DEC,"Ding, Liren",China,2732
+24,2014,DEC,"Jakovenko, Dmitry",Russia,2732
+25,2014,DEC,"Naiditsch, Arkadij",Germany,2731
+26,2014,DEC,"Li, Chao b",China,2730
+27,2014,DEC,"Harikrishna, P.",India,2727
+28,2014,DEC,"Navara, David",Czech Republic,2727
+29,2014,DEC,"Dominguez Perez, Leinier",Cuba,2726
+30,2014,DEC,"Eljanov, Pavel",Ukraine,2726
+31,2014,DEC,"Leko, Peter",Hungary,2723
+32,2014,DEC,"Wang, Yue",China,2720
+33,2014,DEC,"Bacrot, Etienne",France,2718
+34,2014,DEC,"Rapport, Richard",Hungary,2716
+35,2014,DEC,"Ivanchuk, Vassily",Ukraine,2715
+36,2014,DEC,"Nepomniachtchi, Ian",Russia,2714
+37,2014,DEC,"Tomashevsky, Evgeny",Russia,2714
+38,2014,DEC,"Ponomariov, Ruslan",Ukraine,2713
+39,2014,DEC,"Morozevich, Alexander",Russia,2712
+40,2014,DEC,"Wang, Hao",China,2710
+41,2014,DEC,"Malakhov, Vladimir",Russia,2708
+42,2014,DEC,"Fressinet, Laurent",France,2706
+43,2014,DEC,"Vallejo Pons, Francisco",Spain,2705
+44,2014,DEC,"Yu, Yangyi",China,2705
+45,2014,DEC,"Almasi, Zoltan",Hungary,2704
+46,2014,DEC,"Kasimdzhanov, Rustam",Uzbekistan,2703
+47,2014,DEC,"Rublevsky, Sergei",Russia,2698
+48,2014,DEC,"Matlakov, Maxim",Russia,2695
+49,2014,DEC,"Moiseenko, Alexander",Ukraine,2694
+50,2014,DEC,"Bu, Xiangzhi",China,2691
+51,2014,DEC,"Kryvoruchko, Yuriy",Ukraine,2688
+52,2014,DEC,"Korobov, Anton",Ukraine,2687
+53,2014,DEC,"Sargissian, Gabriel",Armenia,2687
+54,2014,DEC,"Lysyj, Igor",Russia,2686
+55,2014,DEC,"Cheparinov, Ivan",Bulgaria,2684
+56,2014,DEC,"Riazantsev, Alexander",Russia,2684
+57,2014,DEC,"Ni, Hua",China,2683
+58,2014,DEC,"Sasikiran, Krishnan",India,2682
+59,2014,DEC,"Kamsky, Gata",United States of America,2681
+60,2014,DEC,"Kuzubov, Yuriy",Ukraine,2681
+61,2014,DEC,"Inarkiev, Ernesto",Russia,2680
+62,2014,DEC,"Motylev, Alexander",Russia,2680
+63,2014,DEC,"Alekseev, Evgeny",Russia,2679
+64,2014,DEC,"Saric, Ivan",Croatia,2679
+65,2014,DEC,"Le, Quang Liem",Vietnam,2678
+66,2014,DEC,"Melkumyan, Hrant",Armenia,2678
+67,2014,DEC,"Tiviakov, Sergei",Netherlands,2677
+68,2014,DEC,"Rodshtein, Maxim",Israel,2676
+69,2014,DEC,"Polgar, Judit",Hungary,2675
+70,2014,DEC,"Shirov, Alexei",Latvia,2675
+71,2014,DEC,"Gyimesi, Zoltan",Hungary,2674
+72,2014,DEC,"Hou, Yifan",China,2673
+73,2014,DEC,"Laznicka, Viktor",Czech Republic,2673
+74,2014,DEC,"McShane, Luke J",England,2672
+75,2014,DEC,"Zhigalko, Sergei",Belarus,2672
+76,2014,DEC,"Howell, David W L",England,2670
+77,2014,DEC,"Berkes, Ferenc",Hungary,2669
+78,2014,DEC,"Fedorchuk, Sergey A.",Ukraine,2669
+79,2014,DEC,"Grachev, Boris",Russia,2669
+80,2014,DEC,"Negi, Parimarjan",India,2669
+81,2014,DEC,"Bruzon Batista, Lazaro",Cuba,2668
+82,2014,DEC,"Khismatullin, Denis",Russia,2668
+83,2014,DEC,"Wei, Yi",China,2668
+84,2014,DEC,"Van Wely, Loek",Netherlands,2667
+85,2014,DEC,"Sjugirov, Sanan",Russia,2666
+86,2014,DEC,"Onischuk, Alexander",United States of America,2665
+87,2014,DEC,"Bartel, Mateusz",Poland,2664
+88,2014,DEC,"Bareev, Evgeny",Russia,2663
+89,2014,DEC,"Artemiev, Vladislav",Russia,2662
+90,2014,DEC,"Areshchenko, Alexander",Ukraine,2661
+91,2014,DEC,"Fedoseev, Vladimir",Russia,2661
+92,2014,DEC,"Jones, Gawain C B",England,2661
+93,2014,DEC,"Short, Nigel D",England,2661
+94,2014,DEC,"Edouard, Romain",France,2659
+95,2014,DEC,"Nguyen, Ngoc Truong Son",Vietnam,2659
+96,2014,DEC,"Balogh, Csaba",Hungary,2658
+97,2014,DEC,"Gharamian, Tigran",France,2658
+98,2014,DEC,"Lautier, Joel",France,2658
+99,2014,DEC,"Mamedov, Rauf",Azerbaijan,2658
+100,2014,DEC,"Movsesian, Sergei",Armenia,2658
+1,2015,DEC,"Carlsen, Magnus",Norway,2834
+2,2015,DEC,"Kasparov, Garry",Russia,2812
+3,2015,DEC,"Topalov, Veselin",Bulgaria,2803
+4,2015,DEC,"Anand, Viswanathan",India,2796
+5,2015,DEC,"Kramnik, Vladimir",Russia,2796
+6,2015,DEC,"Nakamura, Hikaru",United States of America,2793
+7,2015,DEC,"Aronian, Levon",Armenia,2788
+8,2015,DEC,"Caruana, Fabiano",United States of America,2787
+9,2015,DEC,"Giri, Anish",Netherlands,2784
+10,2015,DEC,"Ding, Liren",China,2776
+11,2015,DEC,"So, Wesley",United States of America,2775
+12,2015,DEC,"Vachier-Lagrave, Maxime",France,2773
+13,2015,DEC,"Karjakin, Sergey",Russia,2766
+14,2015,DEC,"Eljanov, Pavel",Ukraine,2763
+15,2015,DEC,"Svidler, Peter",Russia,2751
+16,2015,DEC,"Li, Chao b",China,2750
+17,2015,DEC,"Mamedyarov, Shakhriyar",Azerbaijan,2748
+18,2015,DEC,"Grischuk, Alexander",Russia,2747
+19,2015,DEC,"Tomashevsky, Evgeny",Russia,2744
+20,2015,DEC,"Harikrishna, P.",India,2743
+21,2015,DEC,"Adams, Michael",England,2737
+22,2015,DEC,"Jakovenko, Dmitry",Russia,2737
+23,2015,DEC,"Yu, Yangyi",China,2736
+24,2015,DEC,"Andreikin, Dmitry",Russia,2732
+25,2015,DEC,"Dominguez Perez, Leinier",Cuba,2732
+26,2015,DEC,"Gelfand, Boris",Israel,2731
+27,2015,DEC,"Navara, David",Czech Republic,2730
+28,2015,DEC,"Wei, Yi",China,2730
+29,2015,DEC,"Radjabov, Teimour",Azerbaijan,2726
+30,2015,DEC,"Vitiugov, Nikita",Russia,2724
+31,2015,DEC,"Wang, Yue",China,2724
+32,2015,DEC,"Wojtaszek, Radoslaw",Poland,2723
+33,2015,DEC,"Le, Quang Liem",Vietnam,2718
+34,2015,DEC,"Rapport, Richard",Hungary,2715
+35,2015,DEC,"Korobov, Anton",Ukraine,2713
+36,2015,DEC,"Bu, Xiangzhi",China,2712
+37,2015,DEC,"Kryvoruchko, Yuriy",Ukraine,2711
+38,2015,DEC,"Ivanchuk, Vassily",Ukraine,2710
+39,2015,DEC,"Ponomariov, Ruslan",Ukraine,2710
+40,2015,DEC,"Fressinet, Laurent",France,2707
+41,2015,DEC,"Nepomniachtchi, Ian",Russia,2707
+42,2015,DEC,"Wang, Hao",China,2707
+43,2015,DEC,"Leko, Peter",Hungary,2705
+44,2015,DEC,"Kasimdzhanov, Rustam",Uzbekistan,2702
+45,2015,DEC,"Sargissian, Gabriel",Armenia,2702
+46,2015,DEC,"Naiditsch, Arkadij",Azerbaijan,2698
+47,2015,DEC,"Hammer, Jon Ludvig",Norway,2695
+48,2015,DEC,"Malakhov, Vladimir",Russia,2694
+49,2015,DEC,"Ni, Hua",China,2693
+50,2015,DEC,"Bacrot, Etienne",France,2692
+51,2015,DEC,"Morozevich, Alexander",Russia,2692
+52,2015,DEC,"Rublevsky, Sergei",Russia,2692
+53,2015,DEC,"Almasi, Zoltan",Hungary,2690
+54,2015,DEC,"Moiseenko, Alexander",Ukraine,2689
+55,2015,DEC,"Howell, David W L",England,2688
+56,2015,DEC,"Ragger, Markus",Austria,2687
+57,2015,DEC,"Granda Zuniga, Julio E",Peru,2685
+58,2015,DEC,"Matlakov, Maxim",Russia,2684
+59,2015,DEC,"Short, Nigel D",England,2684
+60,2015,DEC,"Hou, Yifan",China,2683
+61,2015,DEC,"Cheparinov, Ivan",Bulgaria,2682
+62,2015,DEC,"Kovalenko, Igor",Latvia,2680
+63,2015,DEC,"Rodshtein, Maxim",Israel,2678
+64,2015,DEC,"Areshchenko, Alexander",Ukraine,2677
+65,2015,DEC,"Artemiev, Vladislav",Russia,2676
+66,2015,DEC,"Shirov, Alexei",Latvia,2676
+67,2015,DEC,"Vallejo Pons, Francisco",Spain,2676
+68,2015,DEC,"Bareev, Evgeny",Canada,2675
+69,2015,DEC,"Nisipeanu, Liviu-Dieter",Germany,2675
+70,2015,DEC,"Polgar, Judit",Hungary,2675
+71,2015,DEC,"Gyimesi, Zoltan",Hungary,2674
+72,2015,DEC,"Najer, Evgeniy",Russia,2674
+73,2015,DEC,"Jobava, Baadur",Georgia,2673
+74,2015,DEC,"Postny, Evgeny",Israel,2670
+75,2015,DEC,"Adhiban, B.",India,2669
+76,2015,DEC,"Kamsky, Gata",United States of America,2669
+77,2015,DEC,"McShane, Luke J",England,2669
+78,2015,DEC,"Inarkiev, Ernesto",Russia,2668
+79,2015,DEC,"Bruzon Batista, Lazaro",Cuba,2666
+80,2015,DEC,"Lysyj, Igor",Russia,2666
+81,2015,DEC,"Amin, Bassem",Egypt,2665
+82,2015,DEC,"Fedoseev, Vladimir",Russia,2664
+83,2015,DEC,"Negi, Parimarjan",India,2664
+84,2015,DEC,"Onischuk, Alexander",United States of America,2664
+85,2015,DEC,"Duda, Jan-Krzysztof",Poland,2663
+86,2015,DEC,"Sadler, Matthew D",England,2662
+87,2015,DEC,"Zvjaginsev, Vadim",Russia,2662
+88,2015,DEC,"Ivanisevic, Ivan",Serbia,2660
+89,2015,DEC,"Meier, Georg",Germany,2660
+90,2015,DEC,"Tkachiev, Vladislav",France,2660
+91,2015,DEC,"Movsesian, Sergei",Armenia,2659
+92,2015,DEC,"Robson, Ray",United States of America,2659
+93,2015,DEC,"Lautier, Joel",France,2658
+94,2015,DEC,"Smirin, Ilia",Israel,2658
+95,2015,DEC,"Bukavshin, Ivan",Russia,2657
+96,2015,DEC,"Dubov, Daniil",Russia,2655
+97,2015,DEC,"Laznicka, Viktor",Czech Republic,2655
+98,2015,DEC,"Zhigalko, Sergei",Belarus,2655
+99,2015,DEC,"Bologan, Viktor",Moldova,2654
+100,2015,DEC,"Gharamian, Tigran",France,2654
+1,2016,DEC,"Carlsen, Magnus",Norway,2840
+2,2016,DEC,"Caruana, Fabiano",United States of America,2823
+3,2016,DEC,"Kasparov, Garry",Russia,2812
+4,2016,DEC,"Kramnik, Vladimir",Russia,2809
+5,2016,DEC,"Vachier-Lagrave, Maxime",France,2804
+6,2016,DEC,"So, Wesley",United States of America,2794
+7,2016,DEC,"Aronian, Levon",Armenia,2785
+8,2016,DEC,"Karjakin, Sergey",Russia,2785
+9,2016,DEC,"Anand, Viswanathan",India,2779
+10,2016,DEC,"Nakamura, Hikaru",United States of America,2779
+11,2016,DEC,"Giri, Anish",Netherlands,2771
+12,2016,DEC,"Harikrishna, P.",India,2770
+13,2016,DEC,"Mamedyarov, Shakhriyar",Azerbaijan,2768
+14,2016,DEC,"Nepomniachtchi, Ian",Russia,2767
+15,2016,DEC,"Eljanov, Pavel",Ukraine,2762
+16,2016,DEC,"Topalov, Veselin",Bulgaria,2760
+17,2016,DEC,"Ding, Liren",China,2757
+18,2016,DEC,"Svidler, Peter",Russia,2753
+19,2016,DEC,"Wojtaszek, Radoslaw",Poland,2749
+20,2016,DEC,"Adams, Michael",England,2748
+21,2016,DEC,"Ivanchuk, Vassily",Ukraine,2747
+22,2016,DEC,"Dominguez Perez, Leinier",Cuba,2739
+23,2016,DEC,"Andreikin, Dmitry",Russia,2737
+24,2016,DEC,"Grischuk, Alexander",Russia,2737
+25,2016,DEC,"Yu, Yangyi",China,2729
+26,2016,DEC,"Vitiugov, Nikita",Russia,2726
+27,2016,DEC,"Gelfand, Boris",Israel,2725
+28,2016,DEC,"Navara, David",Czech Republic,2725
+29,2016,DEC,"Li, Chao b",China,2720
+30,2016,DEC,"Le, Quang Liem",Vietnam,2718
+31,2016,DEC,"Rapport, Richard",Hungary,2717
+32,2016,DEC,"Tomashevsky, Evgeny",Russia,2716
+33,2016,DEC,"Malakhov, Vladimir",Russia,2713
+34,2016,DEC,"Vallejo Pons, Francisco",Spain,2711
+35,2016,DEC,"Radjabov, Teimour",Azerbaijan,2710
+36,2016,DEC,"Wang, Yue",China,2710
+37,2016,DEC,"Inarkiev, Ernesto",Russia,2709
+38,2016,DEC,"Ponomariov, Ruslan",Ukraine,2709
+39,2016,DEC,"Wei, Yi",China,2707
+40,2016,DEC,"Bu, Xiangzhi",China,2705
+41,2016,DEC,"Jakovenko, Dmitry",Russia,2704
+42,2016,DEC,"Almasi, Zoltan",Hungary,2703
+43,2016,DEC,"Jobava, Baadur",Georgia,2702
+44,2016,DEC,"Kryvoruchko, Yuriy",Ukraine,2699
+45,2016,DEC,"Van Wely, Loek",Netherlands,2696
+46,2016,DEC,"Rodshtein, Maxim",Israel,2695
+47,2016,DEC,"Matlakov, Maxim",Russia,2694
+48,2016,DEC,"Leko, Peter",Hungary,2693
+49,2016,DEC,"Korobov, Anton",Ukraine,2692
+50,2016,DEC,"Kasimdzhanov, Rustam",Uzbekistan,2691
+51,2016,DEC,"Safarli, Eltaj",Azerbaijan,2691
+52,2016,DEC,"Bacrot, Etienne",France,2689
+53,2016,DEC,"Cheparinov, Ivan",Bulgaria,2689
+54,2016,DEC,"Ragger, Markus",Austria,2689
+55,2016,DEC,"Vidit, Santosh Gujrathi",India,2689
+56,2016,DEC,"Mamedov, Rauf",Azerbaijan,2688
+57,2016,DEC,"Naiditsch, Arkadij",Azerbaijan,2687
+58,2016,DEC,"Duda, Jan-Krzysztof",Poland,2684
+59,2016,DEC,"Kovalenko, Igor",Latvia,2684
+60,2016,DEC,"Rublevsky, Sergei",Russia,2681
+61,2016,DEC,"Nisipeanu, Liviu-Dieter",Germany,2680
+62,2016,DEC,"Najer, Evgeniy",Russia,2679
+63,2016,DEC,"Short, Nigel D",England,2679
+64,2016,DEC,"Zvjaginsev, Vadim",Russia,2679
+65,2016,DEC,"Areshchenko, Alexander",Ukraine,2678
+66,2016,DEC,"Wang, Hao",China,2678
+67,2016,DEC,"Morozevich, Alexander",Russia,2676
+68,2016,DEC,"Akopian, Vladimir",Armenia,2675
+69,2016,DEC,"Polgar, Judit",Hungary,2675
+70,2016,DEC,"Robson, Ray",United States of America,2675
+71,2016,DEC,"Gyimesi, Zoltan",Hungary,2674
+72,2016,DEC,"Shankland, Samuel L",United States of America,2674
+73,2016,DEC,"Movsesian, Sergei",Armenia,2673
+74,2016,DEC,"Shirov, Alexei",Latvia,2673
+75,2016,DEC,"Fressinet, Laurent",France,2672
+76,2016,DEC,"Sadler, Matthew D",England,2672
+77,2016,DEC,"Riazantsev, Alexander",Russia,2671
+78,2016,DEC,"Zhigalko, Sergei",Belarus,2671
+79,2016,DEC,"Negi, Parimarjan",India,2670
+80,2016,DEC,"Sjugirov, Sanan",Russia,2670
+81,2016,DEC,"Smirin, Ilia",Israel,2669
+82,2016,DEC,"Ganguly, Surya Shekhar",India,2668
+83,2016,DEC,"Onischuk, Alexander",United States of America,2668
+84,2016,DEC,"Fedoseev, Vladimir",Russia,2667
+85,2016,DEC,"Jones, Gawain C B",England,2667
+86,2016,DEC,"Rakhmanov, Aleksandr",Russia,2667
+87,2016,DEC,"Sargissian, Gabriel",Armenia,2667
+88,2016,DEC,"Adhiban, B.",India,2666
+89,2016,DEC,"Bareev, Evgeny",Canada,2666
+90,2016,DEC,"Xiong, Jeffery",United States of America,2666
+91,2016,DEC,"Ni, Hua",China,2664
+92,2016,DEC,"Motylev, Alexander",Russia,2663
+93,2016,DEC,"Amin, Bassem",Egypt,2662
+94,2016,DEC,"Kamsky, Gata",United States of America,2661
+95,2016,DEC,"Laznicka, Viktor",Czech Republic,2661
+96,2016,DEC,"Sasikiran, Krishnan",India,2661
+97,2016,DEC,"Cordova, Emilio",Peru,2660
+98,2016,DEC,"Dubov, Daniil",Russia,2660
+99,2016,DEC,"Ipatov, Alexander",Turkey,2660
+100,2016,DEC,"Markus, Robert",Serbia,2660
+1,2017,DEC,"Carlsen, Magnus",Norway,2837
+2,2017,DEC,"Kasparov, Garry",Russia,2812
+3,2017,DEC,"Aronian, Levon",Armenia,2805
+4,2017,DEC,"Caruana, Fabiano",United States of America,2799
+5,2017,DEC,"Mamedyarov, Shakhriyar",Azerbaijan,2799
+6,2017,DEC,"Vachier-Lagrave, Maxime",France,2789
+7,2017,DEC,"So, Wesley",United States of America,2788
+8,2017,DEC,"Kramnik, Vladimir",Russia,2787
+9,2017,DEC,"Anand, Viswanathan",India,2782
+10,2017,DEC,"Nakamura, Hikaru",United States of America,2781
+11,2017,DEC,"Ding, Liren",China,2777
+12,2017,DEC,"Grischuk, Alexander",Russia,2772
+13,2017,DEC,"Svidler, Peter",Russia,2765
+14,2017,DEC,"Karjakin, Sergey",Russia,2760
+15,2017,DEC,"Giri, Anish",Netherlands,2752
+16,2017,DEC,"Yu, Yangyi",China,2751
+17,2017,DEC,"Topalov, Veselin",Finland,2749
+18,2017,DEC,"Radjabov, Teimour",Azerbaijan,2748
+19,2017,DEC,"Harikrishna, P.",India,2744
+20,2017,DEC,"Wei, Yi",China,2743
+21,2017,DEC,"Navara, David",Czech Republic,2740
+22,2017,DEC,"Dominguez Perez, Leinier",Cuba,2739
+23,2017,DEC,"Le, Quang Liem",Vietnam,2737
+24,2017,DEC,"Wojtaszek, Radoslaw",Poland,2736
+25,2017,DEC,"Matlakov, Maxim",Russia,2735
+26,2017,DEC,"Li, Chao b",China,2732
+27,2017,DEC,"Bu, Xiangzhi",China,2730
+28,2017,DEC,"Jakovenko, Dmitry",Russia,2730
+29,2017,DEC,"Nepomniachtchi, Ian",Russia,2729
+30,2017,DEC,"Ivanchuk, Vassily",Ukraine,2726
+31,2017,DEC,"Bacrot, Etienne",France,2725
+32,2017,DEC,"Vitiugov, Nikita",Russia,2722
+33,2017,DEC,"Fedoseev, Vladimir",Russia,2718
+34,2017,DEC,"Duda, Jan-Krzysztof",Poland,2717
+35,2017,DEC,"Adams, Michael",England,2715
+36,2017,DEC,"Vidit, Santosh Gujrathi",India,2715
+37,2017,DEC,"Tomashevsky, Evgeny",Russia,2713
+38,2017,DEC,"Andreikin, Dmitry",Russia,2712
+39,2017,DEC,"Eljanov, Pavel",Ukraine,2711
+40,2017,DEC,"Cheparinov, Ivan",Finland,2710
+41,2017,DEC,"Mamedov, Rauf",Azerbaijan,2709
+42,2017,DEC,"Wang, Hao",China,2709
+43,2017,DEC,"Rapport, Richard",Hungary,2707
+44,2017,DEC,"Vallejo Pons, Francisco",Spain,2707
+45,2017,DEC,"Naiditsch, Arkadij",Azerbaijan,2705
+46,2017,DEC,"Kuzubov, Yuriy",Ukraine,2699
+47,2017,DEC,"Rodshtein, Maxim",Israel,2699
+48,2017,DEC,"Gelfand, Boris",Israel,2697
+49,2017,DEC,"Najer, Evgeniy",Russia,2696
+50,2017,DEC,"Ponomariov, Ruslan",Ukraine,2694
+51,2017,DEC,"Artemiev, Vladislav",Russia,2691
+52,2017,DEC,"Leko, Peter",Hungary,2691
+53,2017,DEC,"Jobava, Baadur",Georgia,2690
+54,2017,DEC,"Wang, Yue",China,2690
+55,2017,DEC,"Amin, Bassem",Egypt,2689
+56,2017,DEC,"Inarkiev, Ernesto",Russia,2689
+57,2017,DEC,"Kryvoruchko, Yuriy",Ukraine,2689
+58,2017,DEC,"Malakhov, Vladimir",Russia,2686
+59,2017,DEC,"Sadler, Matthew D",England,2685
+60,2017,DEC,"Dubov, Daniil",Russia,2683
+61,2017,DEC,"Kasimdzhanov, Rustam",Uzbekistan,2683
+62,2017,DEC,"Rublevsky, Sergei",Russia,2683
+63,2017,DEC,"Almasi, Zoltan",Hungary,2682
+64,2017,DEC,"Onischuk, Alexander",United States of America,2681
+65,2017,DEC,"Hou, Yifan",China,2680
+66,2017,DEC,"Sasikiran, Krishnan",India,2680
+67,2017,DEC,"Short, Nigel D",England,2678
+68,2017,DEC,"Kamsky, Gata",United States of America,2677
+69,2017,DEC,"Howell, David W L",England,2676
+70,2017,DEC,"Motylev, Alexander",Russia,2675
+71,2017,DEC,"Polgar, Judit",Hungary,2675
+72,2017,DEC,"Gyimesi, Zoltan",Hungary,2674
+73,2017,DEC,"Sutovsky, Emil",Israel,2673
+74,2017,DEC,"Bruzon Batista, Lazaro",Cuba,2672
+75,2017,DEC,"Kravtsiv, Martyn",Ukraine,2672
+76,2017,DEC,"Sargissian, Gabriel",Armenia,2672
+77,2017,DEC,"Krasenkow, Michal",Poland,2671
+78,2017,DEC,"Ni, Hua",China,2671
+79,2017,DEC,"Nisipeanu, Liviu-Dieter",Germany,2671
+80,2017,DEC,"Saric, Ivan",Croatia,2669
+81,2017,DEC,"Akopian, Vladimir",Armenia,2667
+82,2017,DEC,"Moiseenko, Alexander",Ukraine,2667
+83,2017,DEC,"Anton Guijarro, David",Spain,2666
+84,2017,DEC,"Bareev, Evgeny",Canada,2666
+85,2017,DEC,"Iturrizaga Bonelli, Eduardo",Venezuela,2665
+86,2017,DEC,"Morozevich, Alexander",Russia,2665
+87,2017,DEC,"Fressinet, Laurent",France,2662
+88,2017,DEC,"Shankland, Samuel",United States of America,2662
+89,2017,DEC,"Cori, Jorge",Peru,2660
+90,2017,DEC,"Demchenko, Anton",Russia,2660
+91,2017,DEC,"Tkachiev, Vladislav",France,2660
+92,2017,DEC,"Ipatov, Alexander",Turkey,2659
+93,2017,DEC,"Berkes, Ferenc",Hungary,2658
+94,2017,DEC,"Lautier, Joel",France,2658
+95,2017,DEC,"Grachev, Boris",Russia,2657
+96,2017,DEC,"Granda Zuniga, Julio E",Peru,2657
+97,2017,DEC,"Nabaty, Tamir",Israel,2657
+98,2017,DEC,"Ragger, Markus",Austria,2657
+99,2017,DEC,"Van Wely, Loek",Netherlands,2657
+100,2017,DEC,"Negi, Parimarjan",India,2656
+1,2018,DEC,"Carlsen, Magnus",Norway,2835
+2,2018,DEC,"Caruana, Fabiano",United States of America,2832
+3,2018,DEC,"Mamedyarov, Shakhriyar",Azerbaijan,2817
+4,2018,DEC,"Ding, Liren",China,2813
+5,2018,DEC,"Kasparov, Garry",Russia,2812
+6,2018,DEC,"Giri, Anish",Netherlands,2783
+7,2018,DEC,"Vachier-Lagrave, Maxime",France,2781
+8,2018,DEC,"Kramnik, Vladimir",Russia,2777
+9,2018,DEC,"Anand, Viswanathan",India,2773
+10,2018,DEC,"Grischuk, Alexander",Russia,2771
+11,2018,DEC,"Aronian, Levon",Armenia,2765
+12,2018,DEC,"So, Wesley",United States of America,2765
+13,2018,DEC,"Yu, Yangyi",China,2764
+14,2018,DEC,"Nepomniachtchi, Ian",Russia,2763
+15,2018,DEC,"Radjabov, Teimour",Azerbaijan,2757
+16,2018,DEC,"Karjakin, Sergey",Russia,2753
+17,2018,DEC,"Nakamura, Hikaru",United States of America,2746
+18,2018,DEC,"Topalov, Veselin",Bulgaria,2740
+19,2018,DEC,"Dominguez Perez, Leinier",United States of America,2739
+20,2018,DEC,"Duda, Jan-Krzysztof",Poland,2738
+21,2018,DEC,"Svidler, Peter",Russia,2737
+22,2018,DEC,"Naiditsch, Arkadij",Azerbaijan,2736
+23,2018,DEC,"Navara, David",Czech Republic,2736
+24,2018,DEC,"Jakovenko, Dmitry",Russia,2735
+25,2018,DEC,"Rapport, Richard",Hungary,2732
+26,2018,DEC,"Wojtaszek, Radoslaw",Poland,2732
+27,2018,DEC,"Wang, Hao",China,2730
+28,2018,DEC,"Wei, Yi",China,2728
+29,2018,DEC,"Bu, Xiangzhi",China,2726
+30,2018,DEC,"Harikrishna, Pentala",India,2725
+31,2018,DEC,"Shankland, Samuel",United States of America,2724
+32,2018,DEC,"Andreikin, Dmitry",Russia,2719
+33,2018,DEC,"Fedoseev, Vladimir",Russia,2719
+34,2018,DEC,"Vitiugov, Nikita",Russia,2719
+35,2018,DEC,"Ivanchuk, Vassily",Ukraine,2717
+36,2018,DEC,"Le, Quang Liem",Vietnam,2714
+37,2018,DEC,"Amin, Bassem",Egypt,2710
+38,2018,DEC,"Artemiev, Vladislav",Russia,2709
+39,2018,DEC,"Cheparinov, Ivan",Georgia,2709
+40,2018,DEC,"Tomashevsky, Evgeny",Russia,2705
+41,2018,DEC,"Adams, Michael",England,2703
+42,2018,DEC,"Dubov, Daniil",Russia,2703
+43,2018,DEC,"Li, Chao b",China,2703
+44,2018,DEC,"Mamedov, Rauf",Azerbaijan,2703
+45,2018,DEC,"Vidit, Santosh Gujrathi",India,2701
+46,2018,DEC,"Matlakov, Maxim",Russia,2700
+47,2018,DEC,"Korobov, Anton",Ukraine,2698
+48,2018,DEC,"Howell, David W L",England,2696
+49,2018,DEC,"Adhiban, B.",India,2695
+50,2018,DEC,"Saric, Ivan",Croatia,2695
+51,2018,DEC,"Vallejo Pons, Francisco",Spain,2695
+52,2018,DEC,"Inarkiev, Ernesto",Russia,2693
+53,2018,DEC,"Sadler, Matthew D",England,2693
+54,2018,DEC,"Almasi, Zoltan",Hungary,2689
+55,2018,DEC,"Cori, Jorge",Peru,2689
+56,2018,DEC,"Sargissian, Gabriel",Armenia,2689
+57,2018,DEC,"Maghsoodloo, Parham",Iran,2688
+58,2018,DEC,"Kryvoruchko, Yuriy",Ukraine,2687
+59,2018,DEC,"Ragger, Markus",Austria,2687
+60,2018,DEC,"Bacrot, Etienne",France,2686
+61,2018,DEC,"Kovalev, Vladislav",Belarus,2683
+62,2018,DEC,"Ni, Hua",China,2683
+63,2018,DEC,"Wang, Yue",China,2683
+64,2018,DEC,"Jones, Gawain C B",England,2682
+65,2018,DEC,"Nisipeanu, Liviu-Dieter",Germany,2682
+66,2018,DEC,"Eljanov, Pavel",Ukraine,2680
+67,2018,DEC,"Demchenko, Anton",Russia,2679
+68,2018,DEC,"Grandelius, Nils",Sweden,2678
+69,2018,DEC,"Xiong, Jeffery",United States of America,2676
+70,2018,DEC,"Laznicka, Viktor",Czech Republic,2675
+71,2018,DEC,"Polgar, Judit",Hungary,2675
+72,2018,DEC,"Rodshtein, Maxim",Israel,2675
+73,2018,DEC,"Gyimesi, Zoltan",Hungary,2674
+74,2018,DEC,"Gelfand, Boris",Israel,2673
+75,2018,DEC,"Sasikiran, Krishnan",India,2673
+76,2018,DEC,"Safarli, Eltaj",Azerbaijan,2671
+77,2018,DEC,"Dreev, Aleksey",Russia,2670
+78,2018,DEC,"Melkumyan, Hrant",Armenia,2670
+79,2018,DEC,"Nabaty, Tamir",Israel,2670
+80,2018,DEC,"Najer, Evgeniy",Russia,2670
+81,2018,DEC,"Leko, Peter",Hungary,2669
+82,2018,DEC,"Robson, Ray",United States of America,2667
+83,2018,DEC,"Kamsky, Gata",United States of America,2666
+84,2018,DEC,"Bruzon Batista, Lazaro",Cuba,2664
+85,2018,DEC,"Guseinov, Gadir",Azerbaijan,2664
+86,2018,DEC,"McShane, Luke J",England,2664
+87,2018,DEC,"Sethuraman, S.P.",India,2664
+88,2018,DEC,"Ponomariov, Ruslan",Ukraine,2663
+89,2018,DEC,"Sjugirov, Sanan",Russia,2663
+90,2018,DEC,"Berkes, Ferenc",Hungary,2662
+91,2018,DEC,"Hou, Yifan",China,2662
+92,2018,DEC,"Salem, A.R. Saleh",United Arab Emirates,2660
+93,2018,DEC,"Tkachiev, Vladislav",France,2660
+94,2018,DEC,"Kasimdzhanov, Rustam",Uzbekistan,2659
+95,2018,DEC,"Lenic, Luka",Slovenia,2659
+96,2018,DEC,"Lautier, Joel",France,2658
+97,2018,DEC,"Malakhov, Vladimir",Russia,2658
+98,2018,DEC,"Van Kampen, Robin",Netherlands,2658
+99,2018,DEC,"Kovalenko, Igor",Latvia,2657
+100,2018,DEC,"Areshchenko, Alexander",Ukraine,2656
+1,2019,DEC,"Carlsen, Magnus",Norway,2872
+2,2019,DEC,"Caruana, Fabiano",United States of America,2822
+3,2019,DEC,"Kasparov, Garry",Russia,2812
+4,2019,DEC,"Ding, Liren",China,2801
+5,2019,DEC,"Vachier-Lagrave, Maxime",France,2780
+6,2019,DEC,"Grischuk, Alexander",Russia,2777
+7,2019,DEC,"Aronian, Levon",Armenia,2775
+8,2019,DEC,"Mamedyarov, Shakhriyar",Azerbaijan,2772
+9,2019,DEC,"Giri, Anish",Netherlands,2769
+10,2019,DEC,"Nepomniachtchi, Ian",Russia,2767
+11,2019,DEC,"Radjabov, Teimour",Azerbaijan,2765
+12,2019,DEC,"So, Wesley",United States of America,2760
+13,2019,DEC,"Dominguez Perez, Leinier",United States of America,2758
+14,2019,DEC,"Duda, Jan-Krzysztof",Poland,2758
+15,2019,DEC,"Rapport, Richard",Hungary,2758
+16,2019,DEC,"Anand, Viswanathan",India,2757
+17,2019,DEC,"Wang, Hao",China,2756
+18,2019,DEC,"Karjakin, Sergey",Russia,2754
+19,2019,DEC,"Kramnik, Vladimir",Russia,2753
+20,2019,DEC,"Vitiugov, Nikita",Russia,2747
+21,2019,DEC,"Yu, Yangyi",China,2738
+22,2019,DEC,"Topalov, Veselin",Bulgaria,2737
+23,2019,DEC,"Nakamura, Hikaru",United States of America,2736
+24,2019,DEC,"Artemiev, Vladislav",Russia,2731
+25,2019,DEC,"Wei, Yi",China,2725
+26,2019,DEC,"Wojtaszek, Radoslaw",Poland,2725
+27,2019,DEC,"Andreikin, Dmitry",Russia,2724
+28,2019,DEC,"Harikrishna, Pentala",India,2724
+29,2019,DEC,"Firouzja, Alireza",Iran,2723
+30,2019,DEC,"Svidler, Peter",Russia,2723
+31,2019,DEC,"Vidit, Santosh Gujrathi",India,2721
+32,2019,DEC,"Le, Quang Liem",Vietnam,2713
+33,2019,DEC,"Xiong, Jeffery",United States of America,2712
+34,2019,DEC,"Navara, David",Czech Republic,2707
+35,2019,DEC,"Bu, Xiangzhi",China,2705
+36,2019,DEC,"Tomashevsky, Evgeny",Russia,2705
+37,2019,DEC,"Alekseenko, Kirill",Russia,2704
+38,2019,DEC,"Vallejo Pons, Francisco",Spain,2704
+39,2019,DEC,"Adams, Michael",England,2701
+40,2019,DEC,"Matlakov, Maxim",Russia,2699
+41,2019,DEC,"Jakovenko, Dmitry",Russia,2698
+42,2019,DEC,"Sadler, Matthew D",England,2692
+43,2019,DEC,"Almasi, Zoltan",Hungary,2691
+44,2019,DEC,"Dubov, Daniil",Russia,2690
+45,2019,DEC,"Ivanchuk, Vassily",Ukraine,2690
+46,2019,DEC,"Li, Chao b",China,2690
+47,2019,DEC,"Maghsoodloo, Parham",Iran,2690
+48,2019,DEC,"Sargissian, Gabriel",Armenia,2689
+49,2019,DEC,"Cheparinov, Ivan",Georgia,2687
+50,2019,DEC,"Anton Guijarro, David",Spain,2685
+51,2019,DEC,"Rausis, Igors",Czech Republic,2685
+52,2019,DEC,"Gelfand, Boris",Israel,2684
+53,2019,DEC,"Shirov, Alexei",Spain,2684
+54,2019,DEC,"Amin, Bassem",Egypt,2683
+55,2019,DEC,"Grandelius, Nils",Sweden,2683
+56,2019,DEC,"Jones, Gawain C B",England,2683
+57,2019,DEC,"Shankland, Sam",United States of America,2683
+58,2019,DEC,"Dreev, Aleksey",Russia,2677
+59,2019,DEC,"Fedoseev, Vladimir",Russia,2677
+60,2019,DEC,"Kamsky, Gata",United States of America,2677
+61,2019,DEC,"McShane, Luke J",England,2677
+62,2019,DEC,"Howell, David W L",England,2676
+63,2019,DEC,"Predke, Alexandr",Russia,2676
+64,2019,DEC,"Areshchenko, Alexander",Ukraine,2675
+65,2019,DEC,"Kryvoruchko, Yuriy",Ukraine,2675
+66,2019,DEC,"Polgar, Judit",Hungary,2675
+67,2019,DEC,"Salem, A.R. Saleh",United Arab Emirates,2675
+68,2019,DEC,"Gyimesi, Zoltan",Hungary,2674
+69,2019,DEC,"Wang, Yue",China,2674
+70,2019,DEC,"Robson, Ray",United States of America,2673
+71,2019,DEC,"Leko, Peter",Hungary,2670
+72,2019,DEC,"Ragger, Markus",Austria,2670
+73,2019,DEC,"Bacrot, Etienne",France,2669
+74,2019,DEC,"Ni, Hua",China,2669
+75,2019,DEC,"Korobov, Anton",Ukraine,2668
+76,2019,DEC,"Malakhov, Vladimir",Russia,2668
+77,2019,DEC,"Melkumyan, Hrant",Armenia,2668
+78,2019,DEC,"Nisipeanu, Liviu-Dieter",Germany,2668
+79,2019,DEC,"Kuzubov, Yuriy",Ukraine,2667
+80,2019,DEC,"Guseinov, Gadir",Azerbaijan,2666
+81,2019,DEC,"Sjugirov, Sanan",Russia,2665
+82,2019,DEC,"Hou, Yifan",China,2664
+83,2019,DEC,"Kasimdzhanov, Rustam",Uzbekistan,2664
+84,2019,DEC,"Abasov, Nijat",Azerbaijan,2663
+85,2019,DEC,"Eljanov, Pavel",Ukraine,2663
+86,2019,DEC,"Inarkiev, Ernesto",Russia,2663
+87,2019,DEC,"Sarana, Alexey",Russia,2663
+88,2019,DEC,"Kovalev, Vladislav",Belarus,2662
+89,2019,DEC,"Najer, Evgeniy",Russia,2661
+90,2019,DEC,"Nyzhnyk, Illya",Ukraine,2660
+91,2019,DEC,"Sevian, Samuel",United States of America,2660
+92,2019,DEC,"Tkachiev, Vladislav",France,2660
+93,2019,DEC,"Mamedov, Rauf",Azerbaijan,2659
+94,2019,DEC,"Morozevich, Alexander",Russia,2659
+95,2019,DEC,"Swiercz, Dariusz",United States of America,2659
+96,2019,DEC,"Lautier, Joel",France,2658
+97,2019,DEC,"Van Kampen, Robin",Netherlands,2658
+98,2019,DEC,"Berkes, Ferenc",Hungary,2656
+99,2019,DEC,"Sasikiran, Krishnan",India,2656
+100,2019,DEC,"Lagarde, Maxime",France,2655

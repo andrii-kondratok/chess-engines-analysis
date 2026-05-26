@@ -1,0 +1,197 @@
+/*-- scss:defaults --*/
+
+// ── Typography ────────────────────────────────────────────────────────────────
+$font-family-base:      "Georgia", "Times New Roman", serif;
+$headings-font-family:  "Georgia", serif;
+$headings-font-weight:  700;
+$font-size-base:        1.0rem;
+$line-height-base:      1.7;
+
+// ── Core palette — Midnight & Gold ───────────────────────────────────────────
+$body-bg:               #131118;   // near-black with slight warmth
+$body-color:            #e4dcd0;   // warm off-white (ivory, not cold grey)
+$link-color:            #d4a843;   // chess gold
+$link-hover-color:      #e8c060;   // brighter gold on hover
+$primary:               #d4a843;
+$secondary:             #8b6b2e;
+$border-color:          #2c2838;
+
+// ── Navbar ────────────────────────────────────────────────────────────────────
+$navbar-bg:             #0d0c14;   // even darker header bar
+$navbar-fg:             #e4dcd0;   // ivory text
+$navbar-hl:             #d4a843;   // gold highlight
+
+// ── Sidebar / TOC ─────────────────────────────────────────────────────────────
+$sidebar-bg:            #1c1a28;
+$sidebar-fg:            #c0b8a8;
+$sidebar-hl:            #d4a843;
+
+// ── Code ──────────────────────────────────────────────────────────────────────
+$code-color:            #d4a843;
+$code-bg:               #1f1d2e;
+$pre-bg:                #1f1d2e;
+
+
+/*-- scss:rules --*/
+
+// ── Headings ──────────────────────────────────────────────────────────────────
+h1, h2, h3 {
+  color: #f0e8d8;
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid #2c2838;
+  margin-bottom: 0.6em;
+}
+
+h4, h5, h6 {
+  color: #d8d0c4;
+}
+
+// ── Blockquote ────────────────────────────────────────────────────────────────
+blockquote {
+  border-left: 4px solid #d4a843;
+  background: #1c1a28;
+  padding: 0.6em 1.2em;
+  color: #b8b0a0;
+  font-style: italic;
+  border-radius: 0 6px 6px 0;
+}
+
+// ── Code blocks ───────────────────────────────────────────────────────────────
+pre.sourceCode, div.sourceCode {
+  background: #1f1d2e !important;
+  border: 1px solid #2c2838;
+  border-radius: 6px;
+}
+
+// ── Inline code ───────────────────────────────────────────────────────────────
+code:not(.sourceCode) {
+  background: #1f1d2e;
+  color: #d4a843;
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+// ── Horizontal rule ───────────────────────────────────────────────────────────
+hr {
+  border-color: #2c2838;
+  opacity: 1;
+}
+
+// ── Table ─────────────────────────────────────────────────────────────────────
+.table {
+  --bs-table-color:      #e4dcd0;
+  --bs-table-bg:         #131118;
+  --bs-table-striped-bg: #1c1a28;
+  --bs-table-hover-bg:   #24223a;
+  --bs-table-border-color: #2c2838;
+}
+
+// ── TOC active link ───────────────────────────────────────────────────────────
+#TOC a.active {
+  color: #d4a843;
+  font-weight: 600;
+  border-left: 3px solid #d4a843;
+  padding-left: 4px;
+}
+
+// ── TOC links ─────────────────────────────────────────────────────────────────
+#TOC a {
+  color: #c0b8a8;
+}
+
+#TOC a:hover {
+  color: #d4a843;
+}
+
+// ── Callout ───────────────────────────────────────────────────────────────────
+.callout {
+  border-radius: 6px;
+  background: #1c1a28;
+}
+
+// ── Figure captions ───────────────────────────────────────────────────────────
+figcaption, .figure-caption {
+  color: #8c8478;
+  font-size: 0.88em;
+  font-style: italic;
+}
+
+// ── Quarto navbar toggle button (sun/moon icon) ───────────────────────────────
+.quarto-color-scheme-toggle {
+  color: #d4a843 !important;
+}
+
+// ── gt tables ─────────────────────────────────────────────────────────────────
+// gt inlines style= attributes, so we need !important to override them.
+
+// Wrapper & table element
+.gt_table_container,
+table.gt_table {
+  background-color: #1f1d2e !important;
+  border-top-color:    #2c2838 !important;
+  border-bottom-color: #2c2838 !important;
+  color: #e4dcd0 !important;
+}
+
+// Title / subtitle band
+.gt_heading {
+  background-color: #1f1d2e !important;
+  color: #f0e8d8 !important;
+  border-bottom-color: #2c2838 !important;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+// Column-label band
+.gt_col_headings {
+  background-color: #252338 !important;
+  border-top-color:    #2c2838 !important;
+  border-bottom-color: #2c2838 !important;
+}
+
+.gt_col_heading,
+.gt_columns_top_border,
+.gt_columns_bottom_border {
+  background-color: #252338 !important;
+  color: #d4a843 !important;          // gold header text
+  border-left-color:  #2c2838 !important;
+  border-right-color: #2c2838 !important;
+  border-top-color:   #2c2838 !important;
+  border-bottom-color:#2c2838 !important;
+}
+
+// Data rows — !important overrides cell_fill() inline styles
+.gt_row {
+  background-color: #1f1d2e !important;
+  color: #e4dcd0 !important;
+  border-top-color: #2c2838 !important;
+}
+
+// Striped rows (gt auto-striping)
+.gt_striped {
+  background-color: #252338 !important;
+}
+
+// Summary / grand-summary rows
+.gt_summary_row,
+.gt_grand_summary_row {
+  background-color: #252338 !important;
+  color: #e4dcd0 !important;
+  border-top-color: #2c2838 !important;
+}
+
+// Group label rows
+.gt_group_heading {
+  background-color: #2a2640 !important;
+  color: #d4a843 !important;
+  border-top-color:    #2c2838 !important;
+  border-bottom-color: #2c2838 !important;
+}
+
+// Source notes & footnotes
+.gt_sourcenote,
+.gt_footnote {
+  background-color: #1f1d2e !important;
+  color: #8c8478 !important;
+  border-top-color: #2c2838 !important;
+}

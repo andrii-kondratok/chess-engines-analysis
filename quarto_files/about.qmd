@@ -1,0 +1,61 @@
+---
+title: "Джерела"
+---
+
+Нижче наведено усі матеріали, які використовувались у дослідженні.
+
+------------------------------------------------------------------------
+
+## Каспаров та еволюція шахів
+
+::: {.callout-note appearance="minimal"}
+[**Garry Kasparov on how it all started**](https://en.chessbase.com/post/garry-kasparov-on-how-it-all-started) *ChessBase*
+:::
+
+::: {.callout-note appearance="minimal"}
+[**Chess world champion Garry Kasparov says strengths of humans and AI can complement each other**](https://news.northeastern.edu/2024/06/17/garry-kasparov-chess-humans-ai/) *Northeastern Global News*
+:::
+
+::: {.callout-note appearance="minimal"}
+[**Garry Kasparov: The Digital Pioneer of the Chess World**](https://www.chess.com/blog/Chessable/garry-kasparov-the-digital-pioneer-of-the-chess-world) *Chess.com*
+:::
+
+------------------------------------------------------------------------
+
+## Вплив ШІ та технологій на шахи
+
+::: {.callout-note appearance="minimal"}
+[**How the AI Revolution Impacted Chess (1/2)**](https://en.chessbase.com/post/how-the-ai-revolution-impacted-chess-1-2) *ChessBase*
+:::
+
+::: {.callout-note appearance="minimal"}
+[**Chess and Computers: How Technology Changed the Game**](https://www.chess.com/blog/OnlineChessTeacher/chess-and-computers-how-technology-changed-the-game) *Chess.com*
+:::
+
+------------------------------------------------------------------------
+
+## Карлсен і комп'ютери
+
+::: {.callout-note appearance="minimal"}
+[**The Best 29 Magnus Carlsen Quotes from the Lex Fridman Podcast**](https://chessify.me/blog/best-29-magnus-calrsen-quotes-from-the-lex-fridman-podcast) *Chessify*
+:::
+
+::: {.callout-note appearance="minimal"}
+[**Why does Magnus Carlsen think computers are boring to play chess against?**](https://www.quora.com/Why-does-Magnus-Carlsen-think-computers-are-boring-to-play-chess-against) *Quora*
+:::
+
+------------------------------------------------------------------------
+
+## Механічний Турок — передісторія
+
+::: {.callout-note appearance="minimal"}
+[**How a Phony 18th-Century Chess Robot Fooled the World**](https://www.history.com/articles/how-a-phony-18th-century-chess-robot-fooled-the-world) *History.com*
+:::
+
+::: {.callout-note appearance="minimal"}
+[**Mechanical Turk**](https://en.wikipedia.org/wiki/Mechanical_Turk) *Wikipedia*
+:::
+
+::: {.callout-note appearance="minimal"}
+[**Mechanical Turk**](https://www.frieze.com/article/mechanical-turk) *Frieze*
+:::

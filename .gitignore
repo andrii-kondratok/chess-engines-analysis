@@ -4,6 +4,11 @@ data/raw/
 # Quarto build output
 _site/
 .quarto/
+quarto_files/_site/
+quarto_files/.quarto/
+
+# Duplicate model (kept in app/)
+models/
 
 # R
 .Rproj.user/
@@ -22,3 +27,4 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+.env

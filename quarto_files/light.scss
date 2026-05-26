@@ -1,0 +1,105 @@
+/*-- scss:defaults --*/
+
+// ── Typography ────────────────────────────────────────────────────────────────
+$font-family-base:      "Georgia", "Times New Roman", serif;
+$headings-font-family:  "Georgia", serif;
+$headings-font-weight:  700;
+$font-size-base:        1.0rem;
+$line-height-base:      1.7;
+
+// ── Core palette — Ivory & Mahogany ──────────────────────────────────────────
+$body-bg:               #faf7f2;   // warm parchment
+$body-color:            #1a1208;   // deep warm brown
+$link-color:            #8b3a0f;   // mahogany
+$link-hover-color:      #5c2508;   // darker mahogany
+$primary:               #8b3a0f;
+$secondary:             #b5651d;
+$border-color:          #d8cfc2;
+
+// ── Navbar ────────────────────────────────────────────────────────────────────
+$navbar-bg:             #3d1c08;   // dark mahogany bar
+$navbar-fg:             #f5ece0;   // cream text
+$navbar-hl:             #d4a843;   // gold highlight
+
+// ── Sidebar / TOC ─────────────────────────────────────────────────────────────
+$sidebar-bg:            #f0e9de;
+$sidebar-fg:            #3d1c08;
+$sidebar-hl:            #8b3a0f;
+
+// ── Code ──────────────────────────────────────────────────────────────────────
+$code-color:            #8b3a0f;
+$code-bg:               #ede5d8;
+$pre-bg:                #ede5d8;
+
+
+/*-- scss:rules --*/
+
+// ── Headings ──────────────────────────────────────────────────────────────────
+h1, h2, h3 {
+  color: #3d1c08;
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid #d8cfc2;
+  margin-bottom: 0.6em;
+}
+
+h4, h5, h6 {
+  color: #5c2f12;
+}
+
+// ── Blockquote ────────────────────────────────────────────────────────────────
+blockquote {
+  border-left: 4px solid #d4a843;
+  background: #f5eee4;
+  padding: 0.6em 1.2em;
+  color: #5c3a1e;
+  font-style: italic;
+  border-radius: 0 6px 6px 0;
+}
+
+// ── Code blocks ───────────────────────────────────────────────────────────────
+pre.sourceCode, div.sourceCode {
+  background: #ede5d8 !important;
+  border: 1px solid #d8cfc2;
+  border-radius: 6px;
+}
+
+// ── Inline code ───────────────────────────────────────────────────────────────
+code:not(.sourceCode) {
+  background: #ede5d8;
+  color: #8b3a0f;
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+// ── Horizontal rule ───────────────────────────────────────────────────────────
+hr {
+  border-color: #d8cfc2;
+  opacity: 1;
+}
+
+// ── Table ─────────────────────────────────────────────────────────────────────
+.table {
+  --bs-table-striped-bg: #f0e9de;
+  --bs-table-hover-bg:   #e8dfd4;
+  border-color: #d8cfc2;
+}
+
+// ── TOC active link ───────────────────────────────────────────────────────────
+#TOC a.active {
+  color: #8b3a0f;
+  font-weight: 600;
+  border-left: 3px solid #d4a843;
+  padding-left: 4px;
+}
+
+// ── Callout / alert ───────────────────────────────────────────────────────────
+.callout {
+  border-radius: 6px;
+}
+
+// ── Figure captions ───────────────────────────────────────────────────────────
+figcaption, .figure-caption {
+  color: #7a6248;
+  font-size: 0.88em;
+  font-style: italic;
+}
